@@ -41,9 +41,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
 - [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde)
 - [How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665)
-- [Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
-- [WebAssembly — The missing tutorial](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
-- [Webassembly initial steps tutorial](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
+- [Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
+- [WebAssembly — The missing tutorial](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
+- [Webassembly initial steps tutorial](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
 - [Getting Started With WebAssembly in Node.js](http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html)
 
 ### Compilers
@@ -66,7 +66,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### Languages
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
-- [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
+- [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 
 #### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
@@ -94,7 +94,7 @@ WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?it
 - [What is WebAssembly?](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
 - [7 Things You Should Know About WebAssembly](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/)
 - [WebAssembly: a binary format for the web](http://2ality.com/2015/06/web-assembly.html)
-- [Compiling to WebAssembly: It’s Happening!](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
+- [Compiling to WebAssembly: It’s Happening!](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
 - [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
 - [Creating and working with WebAssembly modules](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
 - [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
@@ -104,7 +104,7 @@ WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?it
 - [Firefox 52: Introducing Web Assembly, CSS Grid and the Grid Inspector](https://hacks.mozilla.org/2017/03/firefox-52-introducing-web-assembly-css-grid-and-the-grid-inspector/)
 - [Previewing the WebAssembly Explorer](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
 - [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
-- [Boost your Web Application with C++! Emscripten, ASM.js, Web Assembly ...](http://adndevblog.typepad.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html)
+- [Boost your Web Application with C++! Emscripten, ASM.js, Web Assembly ...](http://adndevblog.typepad.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html)
 
 ### Video
 - [From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
