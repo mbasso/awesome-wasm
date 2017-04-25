@@ -89,6 +89,7 @@ WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?it
 ### Examples
 - [webassembly-examples](https://github.com/mdn/webassembly-examples)
 - [Factorial in WebAssembly](http://www.hellorust.com/emscripten/wasm-fact/)
+- [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo)
 
 ### Articles
 - [What is WebAssembly?](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
