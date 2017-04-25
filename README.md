@@ -2,7 +2,7 @@
 
 Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 
-Please read the [contribution guidelines](contributing.md) or the [creating a list guide](create-list.md) if you want to contribute.
+Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
 ## Contents
 
