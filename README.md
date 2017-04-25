@@ -65,7 +65,7 @@ Please read the [contribution guidelines](contributing.md) or the [creating a li
 - [wasm-loader - WASM webpack loader](https://github.com/ballercat/wasm-loader)
 
 #### Languages
-- [wasm_lua - Lua VM running in a WASM environment](Lua VM running in a WASM environment)
+- [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 
 #### Others
