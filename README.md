@@ -71,13 +71,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
 - [wasm - Python WebAssembly decoder & disassembler library](https://github.com/athre0z/wasm)
+- [MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library](https://github.com/dmlc/mxnet.js/)
 
 ### Tools
 
 #### Editor
 - [vim-wasm - WebAssembly filetype support for Vim](https://github.com/rhysd/vim-wasm)
-- [vscode wast -
-WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
+- [vscode wast - WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
 - [Atom language-wast](https://atom.io/packages/language-wast)
 
 ### Gists
