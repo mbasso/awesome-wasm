@@ -33,6 +33,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Github](https://github.com/webassembly)
 - [WebAssembly MDN](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
+- [WebAssembly Specification](https://webassembly.github.io/spec/)
 
 ### Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
