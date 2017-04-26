@@ -39,12 +39,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
-- [Compiling Rust to WebAssembly Guide](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde)
-- [How to get a performance boost using WebAssembly](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665)
-- [Build Your First Thing With WebAssembly](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
-- [WebAssembly — The missing tutorial](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
-- [Webassembly initial steps tutorial](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
-- [Getting Started With WebAssembly in Node.js](http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html)
+- [Compiling Rust to WebAssembly Guide (2017)](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde)
+- [How to get a performance boost using WebAssembly (2017)](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665)
+- [Getting Started With WebAssembly in Node.js (2017)](http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html)
+- [Build Your First Thing With WebAssembly (2016)](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
+- [WebAssembly — The missing tutorial (2016)](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
+- [Webassembly initial steps tutorial (2016)](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
 
 ### Compilers
 - [Emscripten - LLVM-based project that compiles C and C++](http://kripken.github.io/emscripten-site/)
@@ -93,34 +93,33 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Web DSP](https://github.com/shamadee/web-dsp)
 
 ### Articles
-- [What is WebAssembly?](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
-- [7 Things You Should Know About WebAssembly](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/)
-- [WebAssembly: a binary format for the web](http://2ality.com/2015/06/web-assembly.html)
-- [Compiling to WebAssembly: It’s Happening!](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
-- [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
-- [Creating and working with WebAssembly modules](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
-- [What makes WebAssembly fast?](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
-- [Where is WebAssembly now and what’s next?](https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/)
-- [Web Games Platform: Newest Developments](https://hacks.mozilla.org/2017/03/web-games-platform-newest-developments/)
-- [Why WebAssembly is Faster Than asm.js](https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/)
-- [Firefox 52: Introducing Web Assembly, CSS Grid and the Grid Inspector](https://hacks.mozilla.org/2017/03/firefox-52-introducing-web-assembly-css-grid-and-the-grid-inspector/)
-- [Previewing the WebAssembly Explorer](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
-- [The Future of Programming: WebAssembly & Life After JavaScript](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
-- [Boost your Web Application with C++! Emscripten, ASM.js, Web Assembly ...](http://adndevblog.typepad.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html)
+- [A cartoon intro to WebAssembly (2017)](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
+- [Creating and working with WebAssembly modules (2017)](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
+- [What makes WebAssembly fast? (2017)](https://hacks.mozilla.org/2017/02/what-makes-webassembly-fast/)
+- [Where is WebAssembly now and what’s next? (2017)](https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/)
+- [Web Games Platform: Newest Developments (2017)](https://hacks.mozilla.org/2017/03/web-games-platform-newest-developments/)
+- [Why WebAssembly is Faster Than asm.js (2017)](https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/)
+- [Firefox 52: Introducing Web Assembly, CSS Grid and the Grid Inspector (2017)](https://hacks.mozilla.org/2017/03/firefox-52-introducing-web-assembly-css-grid-and-the-grid-inspector/)
+- [Previewing the WebAssembly Explorer (2017)](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
+- [Boost your Web Application with C++! Emscripten, ASM.js, Web Assembly ... (2016)](https://forge.autodesk.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html)
+- [What is WebAssembly? (2015)](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
+- [7 Things You Should Know About WebAssembly (2015)](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/)
+- [WebAssembly: a binary format for the web (2015)](http://2ality.com/2015/06/web-assembly.html)
+- [Compiling to WebAssembly: It’s Happening! (2015)](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
+- [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
 
 ### Video
-- [From ASM.JS to WebAssembly](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
-- [WebAssembly and the Future of the Browser](https://www.youtube.com/watch?v=AIFmOwRbXao)
+- [WebAssembly and the Future of the Browser (2016)](https://www.youtube.com/watch?v=AIFmOwRbXao)
+- [From ASM.JS to WebAssembly (2015)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 
 ### Slides
-- [Emscripten and WebAssembly](https://kripken.github.io/talks/wasm.html)
-- [Boost your web application with C++](https://leefsmp.github.io/Particle-System/slides/index.html)
-- [WebAssembly
-(Do we all have to learn C now?)](http://callahad.github.io/tccc20-wasm/slides/#/)
-- [WebAssembly](https://wasm.int64ago.org/#/)
-- [WebAssembly](https://marianoguerra.github.io/ricardo-forth/resources/slides.html#/webassembly)
-- [WebAssembly overview](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
-- [An intro to WebAssembly](https://www.slideshare.net/danlbudden/an-introduction-to-webassembly)
+- [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
+- [WebAssembly (Do we all have to learn C now?)](http://callahad.github.io/tccc20-wasm/slides/#/)
+- [WebAssembly (2016)](https://wasm.int64ago.org/#/)
+- [WebAssembly (2016)](https://marianoguerra.github.io/ricardo-forth/resources/slides.html#/webassembly)
+- [WebAssembly overview (2016)](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
+- [Emscripten and WebAssembly (2015)](https://kripken.github.io/talks/wasm.html)
+- [An intro to WebAssembly (2015)](https://www.slideshare.net/danlbudden/an-introduction-to-webassembly)
 
 ### Community
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
