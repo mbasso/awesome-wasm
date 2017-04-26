@@ -10,6 +10,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Online Playground](#online-playground)
 - [Tutorials](#tutorials)
 - [Compilers](#compilers)
+- [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
   - [DOM](#dom)
   - [WebGL](#webgl)
@@ -53,6 +54,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Binaryen - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++](https://github.com/WebAssembly/binaryen)
 - [Rust - A safe, concurrent, practical language](https://blog.rust-lang.org/2016/12/22/Rust-1.14.html)
 - [ilwasm - CIL to WebAssembly compiler](https://github.com/kg/ilwasm)
+
+### Non-Web Embeddings
+- [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 
 ### Projects
 
