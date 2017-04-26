@@ -20,6 +20,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Editor](#editor)
 - [Gists](#gists)
 - [Examples](#examples)
+- [Benchmarks](#benchmarks)
 - [Articles](#articles)
 - [Video](#video)
 - [Slides](#slides)
@@ -91,6 +92,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Factorial in WebAssembly](http://www.hellorust.com/emscripten/wasm-fact/)
 - [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo)
 - [Web DSP](https://github.com/shamadee/web-dsp)
+
+### Benchmarks
+- [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
+- [3D skeletal animation system](http://aws-website-webassemblyskeletalanimation-ffaza.s3-website-us-east-1.amazonaws.com/)
+- [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) vs [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html)
 
 ### Articles
 - [A cartoon intro to WebAssembly (2017)](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
