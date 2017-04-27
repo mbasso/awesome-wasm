@@ -27,6 +27,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Slides](#slides)
 - [Community](#community)
 - [Books](#books)
+- [Papers](#papers)
 - [Demos](#demos)
 
 ### General Resources
@@ -137,6 +138,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/webassembly)
 - [Twitter](https://twitter.com/webassemblynews)
+
+### Papers
+- [Bringing the Web up to Speed with WebAssembly](https://people.mpi-sws.org/~rossberg/papers/Haas,%20Rossberg,%20Schuff,%20Titzer,%20Gohman,%20Wagner,%20Zakai,%20Bastien,%20Holman%20-%20Bringing%20the%20Web%20up%20to%20Speed%20with%20WebAssembly%20[Draft].pdf)
 
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
