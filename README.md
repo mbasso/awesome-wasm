@@ -28,6 +28,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Community](#community)
 - [Books](#books)
 - [Demos](#demos)
+- [Resources in other languages](#resources-in-other-languages)
+  - [Simple Chinese](#simple-chinese)
 
 ### General Resources
 - [Official Site](http://webassembly.org/)
@@ -148,8 +150,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 
 ### Resources in other languages
-- Simple Chinese
-  - [WebAssembly 中文文档](https://wasm-cn.org/)
+
+#### Simple Chinese
+- [WebAssembly 中文文档](https://wasm-cn.org/)
 
 ### License
 Copyright (c) 2017, Matteo Basso.
