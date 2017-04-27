@@ -146,6 +146,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 
+### Resources in other languages
+- Simple Chinese
+  - [WebAssembly 中文文档](https://wasm-cn.org/)
+
 ### License
 Copyright (c) 2017, Matteo Basso.
 
