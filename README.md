@@ -57,6 +57,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
+- [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 
 ### Projects
 
