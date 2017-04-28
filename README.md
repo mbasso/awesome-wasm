@@ -140,7 +140,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Twitter](https://twitter.com/webassemblynews)
 
 ### Papers
-- [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
+- [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
 
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
