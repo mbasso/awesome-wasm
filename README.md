@@ -27,6 +27,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Slides](#slides)
 - [Community](#community)
 - [Books](#books)
+- [Papers](#papers)
 - [Demos](#demos)
 - [Resources in other languages](#resources-in-other-languages)
   - [Simple Chinese](#simple-chinese)
@@ -140,6 +141,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/webassembly)
 - [Twitter](https://twitter.com/webassemblynews)
+
+### Papers
+- [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
 
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
