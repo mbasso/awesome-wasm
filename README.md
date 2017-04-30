@@ -61,6 +61,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
+- [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
 
 ### Projects
 
@@ -77,6 +78,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### Languages
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
+- [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
 
 #### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
