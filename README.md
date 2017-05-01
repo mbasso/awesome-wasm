@@ -155,6 +155,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Tanks - a Unity game which has been exported to WebAssembly ](http://webassembly.org/demo/Tanks/)
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
+- [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
 
 ### Resources in other languages
 
