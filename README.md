@@ -128,6 +128,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Introduction to WebAssembly (2017)](https://rsms.me/wasm-intro)
 
 ### Video
+- [WebAssembly Demystified (2017)](https://www.youtube.com/watch?v=cRwUD5SxF4o)
 - [WebAssembly and the Future of the Browser (2016)](https://www.youtube.com/watch?v=AIFmOwRbXao)
 - [From ASM.JS to WebAssembly (2015)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 
