@@ -16,6 +16,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [WebGL](#webgl)
   - [webpack](#webpack)
   - [Languages](#languages)
+  - [node.js](#nodejs)
   - [Others](#others)
 - [Tools](#tools)
   - [Editor](#editor)
@@ -80,6 +81,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
+
+#### node.js
+- [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 
 #### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
