@@ -81,6 +81,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
+- [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
 
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
