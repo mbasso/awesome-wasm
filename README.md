@@ -44,6 +44,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
 - [WebAssembly Playground](http://ast.run/)
+- [WasmFiddle](https://wasdk.github.io/WasmFiddle/)
 
 ### Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
