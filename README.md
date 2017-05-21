@@ -86,6 +86,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
+- [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
