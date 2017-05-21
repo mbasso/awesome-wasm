@@ -143,6 +143,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Video
 - [A Cartoon Intro to WebAssembly (2017)](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=HktWin_LPf4)
 - [WebAssembly Demystified (2017)](https://www.youtube.com/watch?v=cRwUD5SxF4o)
+- [Meeting C++ 2016: Implementing a web game in C++14 - Kris Jusiak (2016)](https://www.youtube.com/watch?v=8gRHHIjx4oE)
+- [CppCon 2016: Dan Gohman “C++ on the Web: Let's have some serious fun." (2016)](https://www.youtube.com/watch?v=jXMtQ2fTl4c)
+- [NYLUG Presents: Luke Wagner -on- WebAssembly: A New Compiler Target For The Web (2016)](https://www.youtube.com/watch?v=RByPdCN1RQ4)
 - [WebAssembly and the Future of the Browser (2016)](https://www.youtube.com/watch?v=AIFmOwRbXao)
 - [From ASM.JS to WebAssembly (2015)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 
