@@ -86,6 +86,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
+- [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly](https://github.com/MichaReiser/speedy.js)
+- [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 
