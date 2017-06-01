@@ -87,6 +87,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
+- [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly](https://github.com/MichaReiser/speedy.js)
+- [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 
@@ -164,7 +166,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
 - [StackOverflow](https://stackoverflow.com/questions/tagged/webassembly)
 - [Twitter](https://twitter.com/webassemblynews)
-- [Slack: WebAssembly Developers](https://webassemblydevelopers.slack.com) [(invitation)](https://webassemblydevelopers.herokuapp.com/)
+- [Slack: WebAssembly Developers](https://webassemblydevelopers.slack.com) [(click here to get an invitation)](https://webassemblydevelopers.herokuapp.com/)
 
 ### Papers
 - [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
@@ -178,6 +180,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
 - [Epic Zen Garden](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html)
+- [Funky Karts](https://www.funkykarts.rocks/demo.html)
 
 ### Resources in other languages
 
