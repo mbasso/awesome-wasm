@@ -32,7 +32,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Demos](#demos)
 - [Resources in other languages](#resources-in-other-languages)
   - [Simple Chinese](#simple-chinese)
-
+  - [Russian](#russian)
+	
 ### General Resources
 - [Official Site](http://webassembly.org/)
 - [Github](https://github.com/webassembly)
@@ -185,6 +186,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### Simple Chinese
 - [WebAssembly 中文文档](https://wasm-cn.org/)
+
+#### Russian
+- [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
 
 ### License
 Copyright (c) 2017, Matteo Basso.
