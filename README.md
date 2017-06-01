@@ -156,7 +156,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Slides
 - [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
 - [WebAssembly (Do we all have to learn C now?)](http://callahad.github.io/tccc20-wasm/slides/#/)
-- [WebAssembly (2016)](https://wasm.int64ago.org/#/)
 - [WebAssembly (2016)](https://marianoguerra.github.io/ricardo-forth/resources/slides.html#/webassembly)
 - [WebAssembly overview (2016)](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
 - [Emscripten and WebAssembly (2015)](https://kripken.github.io/talks/wasm.html)
