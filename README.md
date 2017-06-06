@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
   - [DOM](#dom)
+  - [Data processing](#data-processing)
   - [WebGL](#webgl)
   - [webpack](#webpack)
   - [Languages](#languages)
