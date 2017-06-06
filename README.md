@@ -50,6 +50,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
+- [WebAssembly 101: a developer first steps (2017)](http://blog.openbloc.fr/webassembly-first-steps/)
 - [Emscripten/HTML Integration Tips (2017)](http://floooh.github.io/2017/02/22/emsc-html.html)
 - [Compiling Rust to WebAssembly Guide (2017)](https://hackernoon.com/compiling-rust-to-webassembly-guide-411066a69fde)
 - [How to get a performance boost using WebAssembly (2017)](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665)
