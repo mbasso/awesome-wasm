@@ -51,6 +51,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
+- [egghead.io: Get Started Using WebAssembly (WASM)(2017)](https://egghead.io/courses/introduction-to-webassembly)
 - [The Path to Rust on the Web (2017)](https://hoverbear.org/2017/04/06/the-path-to-rust-on-the-web/)
 - [WebAssembly 101: a developer first steps (2017)](http://blog.openbloc.fr/webassembly-first-steps/)
 - [Emscripten/HTML Integration Tips (2017)](http://floooh.github.io/2017/02/22/emsc-html.html)
