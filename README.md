@@ -192,7 +192,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Resources in other languages
 
 #### Simple Chinese
+- [WebAssembly 中文网](http://webassembly.org.cn/)
+- [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
 - [WebAssembly 中文文档](https://wasm-cn.org/)
+- [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
 
 #### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
