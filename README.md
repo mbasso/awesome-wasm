@@ -20,6 +20,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [node.js](#nodejs)
   - [Others](#others)
 - [Tools](#tools)
+  - [Kits](#kits)
   - [Editor](#editor)
 - [Gists](#gists)
 - [Examples](#examples)
@@ -111,6 +112,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
 
 ### Tools
+
+#### Kits
+- [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
+- [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
 
 #### Editor
 - [vim-wasm - WebAssembly filetype support for Vim](https://github.com/rhysd/vim-wasm)
