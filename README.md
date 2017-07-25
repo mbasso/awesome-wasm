@@ -211,6 +211,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
+- [OdessaJS 2017 - Real world WebAssembly (video)](https://www.youtube.com/watch?v=kS29TT4wk44)
 
 ### License
 Copyright (c) 2017, Matteo Basso.
