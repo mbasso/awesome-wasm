@@ -172,6 +172,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [NYLUG Presents: Luke Wagner -on- WebAssembly: A New Compiler Target For The Web (2016)](https://www.youtube.com/watch?v=RByPdCN1RQ4)
 - [WebAssembly and the Future of the Browser (2016)](https://www.youtube.com/watch?v=AIFmOwRbXao)
 - [From ASM.JS to WebAssembly (2015)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
+- [WebAssembly and the Future of the Web (2017)](https://skillsmatter.com/skillscasts/10363-webassembly-and-the-future-of-the-web)
 
 ### Slides
 - [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
