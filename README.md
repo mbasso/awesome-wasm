@@ -71,6 +71,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Rust - A safe, concurrent, practical language](https://blog.rust-lang.org/2016/12/22/Rust-1.14.html)
 - [ilwasm - CIL to WebAssembly compiler](https://github.com/kg/ilwasm)
 - [WebAssembly for the GNU Toolchain](https://sourceware.org/ml/binutils/2017-03/msg00044.html)
+- [faust2 - Functional programming language for signal processing and sound synthesis](http://faust.grame.fr/news/2017/01/13/faust-webassembly.html)
 
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
