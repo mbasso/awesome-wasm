@@ -143,6 +143,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) vs [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html)
 
 ### Articles
+- [WebAssembly: A New Hope (2017)](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/)
 - [Creating a WebAssembly module instance with JavaScript (2017)](https://hacks.mozilla.org/2017/07/creating-a-webassembly-module-instance-with-javascript/)
 - [Memory in WebAssembly (and why it’s safer than you think) (2017)](https://hacks.mozilla.org/2017/07/memory-in-webassembly-and-why-its-safer-than-you-think/)
 - [WebAssembly table imports… what are they? (2017)](https://hacks.mozilla.org/2017/07/webassembly-table-imports-what-are-they/)
