@@ -103,6 +103,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 - [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/nikvolf/parity-wasm)
+- [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
