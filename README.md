@@ -83,6 +83,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### DOM
 - [asm-dom - a minimal WebAssembly virtual DOM focused on performance](https://github.com/mbasso/asm-dom)
 
+#### Utility
+- [eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
+
 #### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
