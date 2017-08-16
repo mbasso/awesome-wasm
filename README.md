@@ -83,6 +83,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### DOM
 - [asm-dom - a minimal WebAssembly virtual DOM focused on performance](https://github.com/mbasso/asm-dom)
 
+
 #### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
@@ -114,6 +115,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm - Python WebAssembly decoder & disassembler library](https://github.com/athre0z/wasm)
 - [MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library](https://github.com/dmlc/mxnet.js/)
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
+- [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
 
 ### Tools
 
