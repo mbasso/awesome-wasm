@@ -140,6 +140,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo)
 - [Web DSP](https://github.com/shamadee/web-dsp)
 - [wasm-intro - Tiny WebAssembly Examples with LLVM/clang and C](https://github.com/bzar/wasm-intro)
+- [webassembly-examples - From Simple To Complex.](https://github.com/reklatsmasters/webassembly-examples)
 
 ### Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
