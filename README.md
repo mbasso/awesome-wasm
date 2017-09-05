@@ -116,6 +116,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library](https://github.com/dmlc/mxnet.js/)
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
 - [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
+- [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
 
 ### Tools
 
