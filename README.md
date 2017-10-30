@@ -117,6 +117,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
 - [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
 - [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
+- [Blazor - An experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/SteveSanderson/Blazor)
 
 ### Tools
 
@@ -147,6 +148,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
 - [3D skeletal animation system](http://aws-website-webassemblyskeletalanimation-ffaza.s3-website-us-east-1.amazonaws.com/)
 - [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) vs [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html)
+- [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 
 ### Articles
 - [WebAssembly: A New Hope (2017)](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/)
@@ -180,6 +182,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly and the Future of the Browser (2016)](https://www.youtube.com/watch?v=AIFmOwRbXao)
 - [From ASM.JS to WebAssembly (2015)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 - [WebAssembly and the Future of the Web (2017)](https://skillsmatter.com/skillscasts/10363-webassembly-and-the-future-of-the-web)
+- [Web Assembly - Nick Bray - GOTO 2015](https://www.youtube.com/watch?v=NhAPPQqKCi8)
+- [Web Assembly - Nick Bray - BlinkOn 5](https://www.youtube.com/watch?v=iCSAUHpPbiU)
+- [Compiling for the Web with WebAssembly (Google I/O '17)](https://www.youtube.com/watch?v=6v4E6oksar0)
+- [Real World WebAssembly (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=PpuAqLCraAQ)
 
 ### Slides
 - [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
@@ -188,6 +194,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly overview (2016)](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
 - [Emscripten and WebAssembly (2015)](https://kripken.github.io/talks/wasm.html)
 - [An intro to WebAssembly (2015)](https://www.slideshare.net/danlbudden/an-introduction-to-webassembly)
+- [Web assembly overview by Mikhail Sorokovsky](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
 
 ### Community
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
@@ -220,6 +227,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
 - [OdessaJS 2017 - Real world WebAssembly (video)](https://www.youtube.com/watch?v=kS29TT4wk44)
+- [Урок-введение по WebAssembly на примере игры “Жизнь” (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
 
 ### License
 Copyright (c) 2017, Matteo Basso.
