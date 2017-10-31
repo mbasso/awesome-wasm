@@ -182,8 +182,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly and the Future of the Browser (2016)](https://www.youtube.com/watch?v=AIFmOwRbXao)
 - [From ASM.JS to WebAssembly (2015)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 - [WebAssembly and the Future of the Web (2017)](https://skillsmatter.com/skillscasts/10363-webassembly-and-the-future-of-the-web)
-- [Web Assembly - Nick Bray - GOTO 2015](https://www.youtube.com/watch?v=NhAPPQqKCi8)
-- [Web Assembly - Nick Bray - BlinkOn 5](https://www.youtube.com/watch?v=iCSAUHpPbiU)
+- [Web Assembly - Nick Bray - GOTO 2015 - (2015)](https://www.youtube.com/watch?v=NhAPPQqKCi8)
+- [Web Assembly - Nick Bray - BlinkOn 5 - (2016)](https://www.youtube.com/watch?v=iCSAUHpPbiU)
 - [Compiling for the Web with WebAssembly (Google I/O '17)](https://www.youtube.com/watch?v=6v4E6oksar0)
 - [Real World WebAssembly (Chrome Dev Summit 2017)](https://www.youtube.com/watch?v=PpuAqLCraAQ)
 
@@ -194,7 +194,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly overview (2016)](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
 - [Emscripten and WebAssembly (2015)](https://kripken.github.io/talks/wasm.html)
 - [An intro to WebAssembly (2015)](https://www.slideshare.net/danlbudden/an-introduction-to-webassembly)
-- [Web assembly overview by Mikhail Sorokovsky](https://www.slideshare.net/ValeriiaMaliarenko/web-assembly-overview-by-mikhail-sorokovsky)
 
 ### Community
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
