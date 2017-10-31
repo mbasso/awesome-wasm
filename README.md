@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Web DSP](https://github.com/shamadee/web-dsp)
 - [wasm-intro - Tiny WebAssembly Examples with LLVM/clang and C](https://github.com/bzar/wasm-intro)
 - [webassembly-examples - From Simple To Complex.](https://github.com/reklatsmasters/webassembly-examples)
+- [D3 force layout with WebAssembly](https://github.com/ColinEberhardt/d3-wasm-force/blob/master/README.md)
 
 ### Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
@@ -194,6 +195,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [StackOverflow](https://stackoverflow.com/questions/tagged/webassembly)
 - [Twitter](https://twitter.com/webassemblynews)
 - [Slack: WebAssembly Developers](https://webassemblydevelopers.slack.com) [(click here to get an invitation)](https://webassemblydevelopers.herokuapp.com/)
+- [WasmWeekly - a weekly news letter](https://www.getrevue.co/profile/WebAssemblyWeekly)
 
 ### Papers
 - [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
