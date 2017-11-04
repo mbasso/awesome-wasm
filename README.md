@@ -104,7 +104,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
-- [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/nikvolf/parity-wasm)
+- [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 
 #### node.js
