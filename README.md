@@ -201,7 +201,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [StackOverflow](https://stackoverflow.com/questions/tagged/webassembly)
 - [Twitter](https://twitter.com/webassemblynews)
 - [Slack: WebAssembly Developers](https://webassemblydevelopers.slack.com) [(click here to get an invitation)](https://webassemblydevelopers.herokuapp.com/)
-- [WasmWeekly - a weekly news letter](https://www.getrevue.co/profile/WebAssemblyWeekly)
+- [WasmWeekly - a weekly newsletter](http://wasmweekly.news/)
 
 ### Papers
 - [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
