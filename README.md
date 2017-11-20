@@ -51,6 +51,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Playground](http://ast.run/)
 - [WasmFiddle](https://wasdk.github.io/WasmFiddle/)
 - [Assembleash - WebAssembly and Typescript-like languages playground](https://github.com/MaxGraey/Assembleash)
+- [Wat2Wasm](https://cdn.rawgit.com/WebAssembly/wabt/fb986fbd/demo/wat2wasm/)
 
 ### Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
