@@ -96,6 +96,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### webpack
 - [wasm-loader - WASM webpack loader](https://github.com/ballercat/wasm-loader)
 
+#### Browserify
+- [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
+
 #### Languages
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
