@@ -16,6 +16,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
   - [webpack](#webpack)
+  - [Browserify](#browserify)
   - [Languages](#languages)
   - [node.js](#nodejs)
   - [Others](#others)
