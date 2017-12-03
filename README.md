@@ -36,7 +36,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Resources in other languages](#resources-in-other-languages)
   - [Simple Chinese](#simple-chinese)
   - [Russian](#russian)
-	
+
 ### General Resources
 - [Official Site](http://webassembly.org/)
 - [Github](https://github.com/webassembly)
@@ -123,6 +123,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
 - [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
 - [Blazor - An experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/SteveSanderson/Blazor)
+- [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
+- [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 
 ### Tools
 
