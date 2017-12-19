@@ -239,6 +239,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Урок-введение по WebAssembly на примере игры “Жизнь” (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
 
 ### License
-Copyright (c) 2017, Matteo Basso.
 
-awesome-wasm source code is licensed under the [MIT License](https://github.com/mbasso/awesome-wasm/blob/master/LICENSE.md).
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Matteo Basso](https://github.com/mbasso) has waived all copyright and related or neighboring rights to this work.
