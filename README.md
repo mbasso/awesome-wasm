@@ -112,6 +112,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 - [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
+- [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
 
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
