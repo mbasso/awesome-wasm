@@ -12,7 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Compilers](#compilers)
 - [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
-  - [DOM](#dom)
+  - [Web frameworks-libraries](#web-frameworks-libraries)
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
   - [webpack](#webpack)
@@ -83,9 +83,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Projects
 
-#### DOM
-- [asm-dom - a minimal WebAssembly virtual DOM focused on performance](https://github.com/mbasso/asm-dom)
-
+#### Web frameworks-libraries
+- [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
+- [Blazor - An experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/SteveSanderson/Blazor)
+- [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
+- [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
 
 #### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
@@ -124,7 +126,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
 - [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
 - [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
-- [Blazor - An experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/SteveSanderson/Blazor)
 - [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 
