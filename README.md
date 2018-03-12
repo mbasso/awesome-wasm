@@ -46,6 +46,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly News](https://wasm.news/)
 - [WebAssembly and Friends Roadmap](https://wasmdash.appspot.com/)
 - [WebAssembly Rocks](https://www.wasmrocks.com/)
+- [Programming Community Curated Assembly Language Tutorials](https://hackr.io/tutorials/learn-assembly-language)
 
 ### Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
