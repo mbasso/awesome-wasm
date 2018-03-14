@@ -129,6 +129,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
 - [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
+- [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 
 ### Tools
 
