@@ -58,6 +58,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
+- [WebAssembly Physics and DOM objects (2018)](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html)
 - [egghead.io: Get Started Using WebAssembly (WASM)(2017)](https://egghead.io/courses/introduction-to-webassembly)
 - [The Path to Rust on the Web (2017)](https://hoverbear.org/2017/04/06/the-path-to-rust-on-the-web/)
 - [WebAssembly 101: a developer first steps (2017)](http://blog.openbloc.fr/webassembly-first-steps/)
@@ -76,6 +77,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [ilwasm - CIL to WebAssembly compiler](https://github.com/kg/ilwasm)
 - [WebAssembly for the GNU Toolchain](https://sourceware.org/ml/binutils/2017-03/msg00044.html)
 - [faust2 - Functional programming language for signal processing and sound synthesis](http://faust.grame.fr/news/2017/01/13/faust-webassembly.html)
+- [Asterius - A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
 
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
@@ -119,6 +121,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
+- [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
 
 #### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
@@ -156,14 +159,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-intro - Tiny WebAssembly Examples with LLVM/clang and C](https://github.com/bzar/wasm-intro)
 - [webassembly-examples - From Simple To Complex.](https://github.com/reklatsmasters/webassembly-examples)
 - [D3 force layout with WebAssembly](https://github.com/ColinEberhardt/d3-wasm-force/blob/master/README.md)
+- [wasmBoy - Gameboy Emulator Library written in Web Assembly using AssemblyScript](https://github.com/torch2424/wasmBoy)
 
 ### Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
 - [3D skeletal animation system](http://aws-website-webassemblyskeletalanimation-ffaza.s3-website-us-east-1.amazonaws.com/)
 - [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) vs [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
+- [Performance Testing Web Assembly vs JavaScript](https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875)
 
 ### Articles
+- [Writing WebAssembly By Hand (2018)](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
+- [Ruby on WebAssembly (2018)](http://www.blacktm.com/blog/ruby-on-webassembly)
 - [Optimizing WebAssembly Startup Time - 4 simple yet effective solutions to reduce load time. (2018)](https://pspdfkit.com/blog/2018/optimize-webassembly-startup-performance/)
 - [WebAssembly: A New Hope (2017)](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/)
 - [Creating a WebAssembly module instance with JavaScript (2017)](https://hacks.mozilla.org/2017/07/creating-a-webassembly-module-instance-with-javascript/)
@@ -188,6 +195,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
 
 ### Video
+- [Build the future of the web with WebAssembly and more (Google I/O '18)](https://www.youtube.com/watch?v=BnYq7JapeDA)
+- [WebAssembly and the Death of JavaScript?](https://www.youtube.com/watch?v=pBYqen3B2gc)
+- [Practical WebAssembly](https://www.youtube.com/watch?v=bac0dGQbUto)
 - [A Cartoon Intro to WebAssembly (2017)](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=HktWin_LPf4)
 - [WebAssembly Demystified (2017)](https://www.youtube.com/watch?v=cRwUD5SxF4o)
 - [Meeting C++ 2016: Implementing a web game in C++14 - Kris Jusiak (2016)](https://www.youtube.com/watch?v=8gRHHIjx4oE)
@@ -219,6 +229,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Papers
 - [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
+- [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
 
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
