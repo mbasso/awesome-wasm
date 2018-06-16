@@ -36,6 +36,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Resources in other languages](#resources-in-other-languages)
   - [Simple Chinese](#simple-chinese)
   - [Russian](#russian)
+  - [Spanish](#spanish)
 
 ### General Resources
 - [Official Site](http://webassembly.org/)
@@ -254,6 +255,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
 - [OdessaJS 2017 - Real world WebAssembly (video)](https://www.youtube.com/watch?v=kS29TT4wk44)
 - [Урок-введение по WebAssembly на примере игры “Жизнь” (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
+
+#### Spanish
+- [Compilando para el navegador con WebAssembly (article)](http://juancrg90.me/compilando-para-el-navegador-con-webassembly/)
 
 ### License
 
