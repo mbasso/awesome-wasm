@@ -45,7 +45,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
 - [WebAssembly Specification](https://webassembly.github.io/spec/)
 - [WebAssembly and Friends Roadmap](https://wasmdash.appspot.com/)
-- [WebAssembly Rocks](https://www.wasmrocks.com/)
+- [WebAssembly Rocks](http://www.wasmrocks.com/)
 
 ### Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
