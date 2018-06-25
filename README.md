@@ -45,7 +45,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
 - [WebAssembly Specification](https://webassembly.github.io/spec/)
 - [WebAssembly and Friends Roadmap](https://wasmdash.appspot.com/)
-- [WebAssembly Rocks](https://www.wasmrocks.com/)
+- [WebAssembly Rocks](http://www.wasmrocks.com/)
 
 ### Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
@@ -161,6 +161,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [webassembly-examples - From Simple To Complex.](https://github.com/reklatsmasters/webassembly-examples)
 - [D3 force layout with WebAssembly](https://github.com/ColinEberhardt/d3-wasm-force/blob/master/README.md)
 - [wasmBoy - Gameboy Emulator Library written in Web Assembly using AssemblyScript](https://github.com/torch2424/wasmBoy)
+- [CppOpenGLWebAssemblyCMake - C++/OpenGL/OpenAL/GLFW/GLM based app built with CMake to native or WebAssembly](https://github.com/lukka/CppOpenGLWebAssemblyCMake)
 
 ### Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
