@@ -243,6 +243,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
 - [Epic Zen Garden](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html)
 - [Funky Karts](http://funkykarts.rocks/demo.html)
+- [PSPDFKit for Web](https://web-preview.pspdfkit.com/standalone/6)
 
 ### Resources in other languages
 
