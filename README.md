@@ -169,6 +169,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) vs [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 - [Performance Testing Web Assembly vs JavaScript](https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875)
+- [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 
 ### Articles
 - [Writing WebAssembly By Hand (2018)](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
