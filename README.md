@@ -17,9 +17,15 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [WebGL](#webgl)
   - [webpack](#webpack)
   - [Browserify](#browserify)
-  - [Languages](#languages)
   - [node.js](#nodejs)
   - [Others](#others)
+- [Languages](#languages)
+  - [Lua](#lua)
+  - [OCAML](#ocaml)
+  - [JavaScript-family](#javascript-family)
+  - [Rust](#rust)
+  - [WASM-like](#wasm-like)
+  - [Esoteric](#esoteric)
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
@@ -106,19 +112,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### Browserify
 - [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
 
-#### Languages
-- [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
-- [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
-- [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
-- [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
-- [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly](https://github.com/MichaReiser/speedy.js)
-- [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
-- [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
-- [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
-- [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
-- [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
-- [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
-
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 - [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
@@ -133,6 +126,33 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
+
+### Languages
+
+#### Lua
+- [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
+
+#### OCAML
+- [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
+
+#### TCL
+- [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
+
+#### JavaScript-family
+- [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
+- [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly](https://github.com/MichaReiser/speedy.js)
+- [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
+
+#### Rust
+- [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
+- [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
+
+#### WASM-like
+- [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
+- [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
+
+#### Esoteric
+- [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 
 ### Tools
 
