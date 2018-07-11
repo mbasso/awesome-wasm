@@ -20,12 +20,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [node.js](#nodejs)
   - [Others](#others)
 - [Languages](#languages)
+  - [Esoteric](#esoteric)
+  - [JavaScript-family](#javascript-family)
   - [Lua](#lua)
   - [OCAML](#ocaml)
-  - [JavaScript-family](#javascript-family)
+  - [Python](#python)
   - [Rust](#rust)
-  - [WASM-like](#wasm-like)
-  - [Esoteric](#esoteric)
+  - [WASM-like](#wasm-like)  
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
@@ -129,30 +130,34 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Languages
 
-#### Lua
-- [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
-
-#### OCAML
-- [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
-
-#### TCL
-- [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
+#### Esoteric
+- [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 
 #### JavaScript-family
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly](https://github.com/MichaReiser/speedy.js)
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
 
+#### Lua
+- [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
+
+#### OCAML
+- [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
+
+#### Python
+- [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
+- [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
+
 #### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 - [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
 
+#### TCL
+- [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
+
 #### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 - [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
-
-#### Esoteric
-- [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 
 ### Tools
 
