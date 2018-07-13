@@ -174,7 +174,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Examples
 - [webassembly-examples](https://github.com/mdn/webassembly-examples)
-- [Factorial in WebAssembly](http://www.hellorust.com/emscripten/wasm-fact/)
+- [Factorial in WebAssembly](https://www.hellorust.com/demos/factorial/index.html)
 - [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo)
 - [Web DSP](https://github.com/shamadee/web-dsp)
 - [wasm-intro - Tiny WebAssembly Examples with LLVM/clang and C](https://github.com/bzar/wasm-intro)
