@@ -18,6 +18,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [webpack](#webpack)
   - [Browserify](#browserify)
   - [node.js](#nodejs)
+  - [.NET](#net)
   - [Others](#others)
 - [Languages](#languages)
   - [Esoteric](#esoteric)
@@ -117,6 +118,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 - [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
+
+### .NET
+- [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno)
 
 #### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
@@ -271,6 +275,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Epic Zen Garden](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html)
 - [Funky Karts](http://funkykarts.rocks/demo.html)
 - [PSPDFKit for Web - a WebAssembly-based PDF viewer with annotation features](https://web-preview.pspdfkit.com/standalone/6)
+- [Uno Platform Playground - a WebAssembly-based XAML playground](http://playground.platform.uno)
+- [Roslyn Quoter - a WebAssembly-based Roslyn-based C# code quoter](http://roslynquoter-wasm.platform.uno/)
 
 ### Resources in other languages
 
