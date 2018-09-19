@@ -276,7 +276,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
 - [Epic Zen Garden](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html)
-- [Funky Karts](http://funkykarts.rocks/demo.html)
+- [Funky Karts](https://www.funkykarts.rocks/demo.html)
 - [PSPDFKit for Web - a WebAssembly-based PDF viewer with annotation features](https://web-preview.pspdfkit.com/standalone/6)
 - [Uno Platform Playground - a WebAssembly-based XAML playground](http://playground.platform.uno)
 - [Roslyn Quoter - a WebAssembly-based Roslyn-based C# code quoter](http://roslynquoter-wasm.platform.uno/)
@@ -295,7 +295,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Урок-введение по WebAssembly на примере игры “Жизнь” (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
 
 #### Spanish
-- [Compilando para el navegador con WebAssembly (article)](http://juancrg90.me/compilando-para-el-navegador-con-webassembly/)
+- [Compilando para el navegador con WebAssembly (article)](http://juancrg90.me/essays/compilando-para-el-navegador-con-webassembly/)
 
 ### License
 
