@@ -93,6 +93,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
+- [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit) 
 
 ### Projects
 
