@@ -282,6 +282,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [PSPDFKit for Web - a WebAssembly-based PDF viewer with annotation features](https://web-preview.pspdfkit.com/standalone/6)
 - [Uno Platform Playground - a WebAssembly-based XAML playground](http://playground.platform.uno)
 - [Roslyn Quoter - a WebAssembly-based Roslyn-based C# code quoter](http://roslynquoter-wasm.platform.uno/)
+- [wasmBoy Demo/Debugger - a Gameboy Emulation library written in Web Assembly using AssemblyScript](https://wasmboy.app/)
 
 ### Resources in other languages
 
