@@ -196,6 +196,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [D3 force layout with WebAssembly](https://github.com/ColinEberhardt/d3-wasm-force/blob/master/README.md)
 - [wasmBoy - Gameboy Emulator Library written in Web Assembly using AssemblyScript](https://github.com/torch2424/wasmBoy)
 - [CppOpenGLWebAssemblyCMake - C++/OpenGL/OpenAL/GLFW/GLM based app built with CMake to native or WebAssembly](https://github.com/lukka/CppOpenGLWebAssemblyCMake)
+- [WebAssembly A* Pathfinding](https://github.com/jakedeichert/wasm-astar)
 
 ### Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
