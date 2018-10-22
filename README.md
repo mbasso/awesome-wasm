@@ -27,7 +27,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [OCAML](#ocaml)
   - [Python](#python)
   - [Rust](#rust)
-  - [WASM-like](#wasm-like)  
+  - [WASM-like](#wasm-like)
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
@@ -93,7 +93,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
-- [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit) 
+- [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit)
 
 ### Projects
 
@@ -291,6 +291,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
 - [WebAssembly 中文文档](https://wasm-cn.org/)
 - [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
+- [WebAssembly资料精选 - 中文版](https://github.com/chai2010/awesome-wasm-zh)
+- [WebAssembly标准入门 - 第一本中文图书](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)
+- [C/C++面向wasm编程 - 第一本中文开源图书](https://github.com/3dgen/cppwasm-book)
 
 #### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
