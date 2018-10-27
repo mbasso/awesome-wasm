@@ -102,6 +102,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Blazor - Microsoft's experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/aspnet/blazor)
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
 - [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
+- [go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)](https://github.com/mfrachet/go-vdom-wasm)
 
 #### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
