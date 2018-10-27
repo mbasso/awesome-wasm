@@ -138,6 +138,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
+- [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 
 ### Languages
 
