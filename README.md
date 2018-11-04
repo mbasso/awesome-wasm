@@ -87,6 +87,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [faust2 - Functional programming language for signal processing and sound synthesis](http://faust.grame.fr/news/2017/01/13/faust-webassembly.html)
 - [Asterius - A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
 - [PPCI.wasm - PPCI Can compile wasm to machine code and run it in the Python process](http://ppci.readthedocs.io/en/latest/reference/wasm.html)
+- [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo)
 
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
