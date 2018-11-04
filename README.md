@@ -84,7 +84,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Rust - A safe, concurrent, practical language](https://blog.rust-lang.org/2016/12/22/Rust-1.14.html)
 - [ilwasm - CIL to WebAssembly compiler](https://github.com/kg/ilwasm)
 - [WebAssembly for the GNU Toolchain](https://sourceware.org/ml/binutils/2017-03/msg00044.html)
-- [faust2 - Functional programming language for signal processing and sound synthesis](http://faust.grame.fr/news/2017/01/13/faust-webassembly.html)
+- [faust2 - Functional programming language for signal processing and sound synthesis](https://faust.grame.fr/community/news/index.html#faust-webassembly-backend)
 - [Asterius - A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
 - [PPCI.wasm - PPCI Can compile wasm to machine code and run it in the Python process](http://ppci.readthedocs.io/en/latest/reference/wasm.html)
 
