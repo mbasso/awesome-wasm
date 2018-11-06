@@ -34,6 +34,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Gists](#gists)
 - [Examples](#examples)
 - [Benchmarks](#benchmarks)
+- [Job Boards](#job-boards)
 - [Articles](#articles)
 - [Video](#video)
 - [Slides](#slides)
@@ -209,6 +210,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 - [Performance Testing Web Assembly vs JavaScript](https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875)
 - [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
+
+### Job Boards
+- [WebAssembly Jobs](https://webassemblyjobs.com)
 
 ### Articles
 - [Writing WebAssembly By Hand (2018)](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
