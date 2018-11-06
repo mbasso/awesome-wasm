@@ -115,7 +115,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### webpack
 - [wasm-loader - WASM webpack loader](https://github.com/ballercat/wasm-loader)
-- [cpp-wasm-lader - C/C++ to WASM Webpack loader optimized for small bundle sizes](https://github.com/ClickSimply/cpp-wasm-loader)
+- [cpp-wasm-loader - C/C++ to WASM Webpack loader optimized for small bundle sizes](https://github.com/ClickSimply/cpp-wasm-loader)
 
 #### Browserify
 - [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
