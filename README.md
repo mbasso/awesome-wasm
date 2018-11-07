@@ -279,6 +279,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
+- [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
 
 ### Demos
 - [Tanks - a Unity game which has been exported to WebAssembly ](http://webassembly.org/demo/Tanks/)
