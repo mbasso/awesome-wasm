@@ -89,6 +89,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Asterius - A Haskell to WebAssembly compiler](https://github.com/tweag/asterius)
 - [PPCI.wasm - PPCI Can compile wasm to machine code and run it in the Python process](http://ppci.readthedocs.io/en/latest/reference/wasm.html)
 - [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo)
+- [Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly](https://github.com/mirkosertic/Bytecoder)
 
 ### Non-Web Embeddings
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
