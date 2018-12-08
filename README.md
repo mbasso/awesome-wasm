@@ -283,6 +283,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
 - [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
+- [WebAssembly in Action - Introduces the WebAssembly stack and walks you through the process of writing and running browser-based applications](https://www.manning.com/books/webassembly-in-action)
 
 ### Demos
 - [Tanks - a Unity game which has been exported to WebAssembly ](http://webassembly.org/demo/Tanks/)
