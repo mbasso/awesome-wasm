@@ -23,6 +23,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Languages](#languages)
   - [Esoteric](#esoteric)
   - [JavaScript-family](#javascript-family)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [OCAML](#ocaml)
   - [Python](#python)
@@ -152,6 +153,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly](https://github.com/MichaReiser/speedy.js)
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/dcodeIO/AssemblyScript)
+
+#### Kotlin
+
+- [Kotlin/Native - Compile Kotlin code to native binaries](https://kotlinlang.org/docs/reference/native-overview.html)
 
 #### Lua
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
