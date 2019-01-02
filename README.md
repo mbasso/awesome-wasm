@@ -22,6 +22,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Others](#others)
 - [Languages](#languages)
   - [Esoteric](#esoteric)
+  - [Go](#go)
   - [JavaScript-family](#javascript-family)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
@@ -148,6 +149,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
+
+#### Go
+- [Go - Go programming language WebAssembly support](https://github.com/golang/go/wiki/WebAssembly)
 
 #### JavaScript-family
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly](https://github.com/01alchemist/TurboScript)
