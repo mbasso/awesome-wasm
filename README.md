@@ -100,6 +100,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
 - [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit)
 - [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer)
+- [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
+
 
 ### Projects
 
