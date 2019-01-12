@@ -100,6 +100,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
 - [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit)
 - [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer)
+- [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
+
 
 ### Projects
 
@@ -183,6 +185,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 - [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
+- [wam - Superset of wast syntax that is more convenient for humans to write directly](https://github.com/kanaka/wam)
 
 ### Tools
 
