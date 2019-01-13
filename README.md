@@ -147,6 +147,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
+- [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
 
 ### Languages
 
