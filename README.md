@@ -101,6 +101,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit)
 - [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer)
 - [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
+- [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
 
 
 ### Projects
