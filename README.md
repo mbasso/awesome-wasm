@@ -313,6 +313,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Uno Platform Playground - a WebAssembly-based XAML playground](http://playground.platform.uno)
 - [Roslyn Quoter - a WebAssembly-based Roslyn-based C# code quoter](http://roslynquoter-wasm.platform.uno/)
 - [wasmBoy Demo/Debugger - a Gameboy Emulation library written in Web Assembly using AssemblyScript](https://wasmboy.app/)
+- [Cat laser game on `<canvas>`](https://olso.space/go-wasm-cat-game-on-canvas/index.html)
 
 ### Resources in other languages
 
