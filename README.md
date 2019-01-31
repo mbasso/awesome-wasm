@@ -99,6 +99,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
 - [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit)
+- [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer)
+- [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
+- [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
+- [pywasm - WebAssembly interpreter written in pure Python](https://github.com/mohanson/pywasm)
+
 
 ### Projects
 
@@ -144,6 +149,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
+- [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
 
 ### Languages
 
@@ -182,6 +188,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 #### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 - [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
+- [wam - Superset of wast syntax that is more convenient for humans to write directly](https://github.com/kanaka/wam)
 
 ### Tools
 
@@ -292,6 +299,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
 - [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
+- [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - [WebAssembly in Action - Introduces the WebAssembly stack and walks you through the process of writing and running browser-based applications](https://www.manning.com/books/webassembly-in-action)
 
 ### Demos
