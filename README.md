@@ -305,6 +305,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Uno Platform Playground - a WebAssembly-based XAML playground](http://playground.platform.uno)
 - [Roslyn Quoter - a WebAssembly-based Roslyn-based C# code quoter](http://roslynquoter-wasm.platform.uno/)
 - [wasmBoy Demo/Debugger - a Gameboy Emulation library written in Web Assembly using AssemblyScript](https://wasmboy.app/)
+- [DOOM 3 - Doom 3 WebAssembly port](http://wasm.continuation-labs.com/d3demo/)
 
 ### Resources in other languages
 
