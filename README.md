@@ -232,7 +232,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Jobs](https://webassemblyjobs.com)
 
 ### Articles
-- [The world’s easiest introduction to WebAssembly with Golang](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
+- [The world’s easiest introduction to WebAssembly with Golang (2019)](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 - [Writing WebAssembly By Hand (2018)](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
 - [Ruby on WebAssembly (2018)](http://www.blacktm.com/blog/ruby-on-webassembly)
 - [Optimizing WebAssembly Startup Time - 4 simple yet effective solutions to reduce load time. (2018)](https://pspdfkit.com/blog/2018/optimize-webassembly-startup-performance/)
