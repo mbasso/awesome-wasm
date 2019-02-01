@@ -161,8 +161,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 #### JavaScript-family
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/AssemblyScript/assemblyscript)
-- [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly ***(unmaintained)***](https://github.com/01alchemist/TurboScript)
-- [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly ***(unmaintained)***](https://github.com/MichaReiser/speedy.js)
+- [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)](https://github.com/01alchemist/TurboScript)
+- [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js)
 
 #### Kotlin
 
