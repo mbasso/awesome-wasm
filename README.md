@@ -302,6 +302,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
 - [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - [WebAssembly in Action - Introduces the WebAssembly stack and walks you through the process of writing and running browser-based applications](https://www.manning.com/books/webassembly-in-action)
+- [Level up with WebAssembly - A practical guide to building WebAssembly applications](http://www.levelupwasm.com/)
 
 ### Demos
 - [Tanks - a Unity game which has been exported to WebAssembly ](http://webassembly.org/demo/Tanks/)
