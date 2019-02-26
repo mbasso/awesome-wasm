@@ -1,7 +1,13 @@
-language: ruby
-rvm:
-  - 2.2
-before_script:
-  - gem install awesome_bot
-script:
-  - awesome_bot README.md --allow-dupe --allow-redirect
+matrix:
+	include:
+		- language: ruby
+			rvm:
+				- 2.2
+			before_script:
+				- gem install awesome_bot
+			script:
+				- awesome_bot README.md --allow-dupe --allow-redirect
+
+		- language: node_js
+			node_js:
+				- 'node'
