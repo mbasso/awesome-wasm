@@ -114,6 +114,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
 - [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
 - [go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)](https://github.com/mfrachet/go-vdom-wasm)
+- [seed - A Rust framework for creating web apps)](https://seed-rs.org/)
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
