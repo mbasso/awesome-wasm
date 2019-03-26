@@ -323,7 +323,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Simple Chinese
 - [WebAssembly 中文网](http://webassembly.org.cn/)
 - [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
-- [WebAssembly 中文文档](https://wasm-cn.org/)
 - [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
 - [WebAssembly资料精选 - 中文版](https://github.com/chai2010/awesome-wasm-zh)
 - [WebAssembly标准入门 - 第一本中文图书](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)
