@@ -31,6 +31,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Rust](#rust)
   - [TCL](#tcl)
   - [WASM-like](#wasm-like)
+	- [Other](#other)
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
