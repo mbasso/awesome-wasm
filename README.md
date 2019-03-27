@@ -31,6 +31,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Rust](#rust)
   - [TCL](#tcl)
   - [WASM-like](#wasm-like)
+  - [Other](#other)
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
@@ -192,6 +193,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 - [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
 - [wam - Superset of wast syntax that is more convenient for humans to write directly](https://github.com/kanaka/wam)
+
+### Other
+- [Lys - a functional language that compiles to WebAssembly](https://github.com/lys-lang/lys)
 
 ## Tools
 
