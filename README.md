@@ -96,6 +96,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly](https://github.com/mirkosertic/Bytecoder)
 
 ## Non-Web Embeddings
+- [WASI - The WebAssembly System Interface](https://wasi.dev/)
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
