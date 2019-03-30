@@ -1,4 +1,4 @@
-# Awesome Wasm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Wasm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Collection of awesome things regarding WebAssembly (wasm) ecosystem.
 
@@ -17,7 +17,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [WebGL](#webgl)
   - [webpack](#webpack)
   - [Browserify](#browserify)
-  - [node.js](#nodejs)
+  - [Node.js](#nodejs)
   - [.NET](#net)
   - [Others](#others)
 - [Languages](#languages)
@@ -29,7 +29,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [OCAML](#ocaml)
   - [Python](#python)
   - [Rust](#rust)
+  - [TCL](#tcl)
   - [WASM-like](#wasm-like)
+  - [Other](#other)
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
@@ -49,16 +51,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Russian](#russian)
   - [Spanish](#spanish)
 
-### General Resources
+## General Resources
 - [Official Site](http://webassembly.org/)
-- [Github](https://github.com/webassembly)
+- [GitHub](https://github.com/webassembly)
 - [WebAssembly MDN](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
 - [WebAssembly Specification](https://webassembly.github.io/spec/)
 - [WebAssembly and Friends Roadmap](https://wasmdash.appspot.com/)
 - [WebAssembly Rocks](http://www.wasmrocks.com/)
 
-### Online Playground
+## Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
 - [WebAssembly Playground](http://ast.run/)
 - [WasmFiddle](https://wasdk.github.io/WasmFiddle/)
@@ -67,7 +69,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Wasm2Wat](https://cdn.rawgit.com/WebAssembly/wabt/fb986fbd/demo/wasm2wat/)
 - [WebAssembly Studio](https://webassembly.studio/)
 
-### Tutorials
+## Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
 - [WebAssembly Physics and DOM objects (2018)](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html)
 - [egghead.io: Get Started Using WebAssembly (WASM)(2017)](https://egghead.io/courses/introduction-to-webassembly)
@@ -81,7 +83,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly — The missing tutorial (2016)](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
 - [Webassembly initial steps tutorial (2016)](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
 
-### Compilers
+## Compilers
 - [Emscripten - LLVM-based project that compiles C and C++](http://kripken.github.io/emscripten-site/)
 - [Binaryen - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++](https://github.com/WebAssembly/binaryen)
 - [Rust - A safe, concurrent, practical language](https://blog.rust-lang.org/2016/12/22/Rust-1.14.html)
@@ -93,7 +95,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo)
 - [Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly](https://github.com/mirkosertic/Bytecoder)
 
-### Non-Web Embeddings
+## Non-Web Embeddings
+- [WASI - The WebAssembly System Interface](https://wasi.dev/)
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
@@ -103,33 +106,36 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
 - [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
 - [pywasm - WebAssembly interpreter written in pure Python](https://github.com/mohanson/pywasm)
+- [Wasabi - WebAssembly runtime designed for multitenancy](https://github.com/maxmcd/wasabi)
 
 
-### Projects
+## Projects
 
-#### Web frameworks-libraries
+### Web frameworks-libraries
 - [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
 - [Blazor - Microsoft's experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/aspnet/blazor)
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
 - [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
 - [go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)](https://github.com/mfrachet/go-vdom-wasm)
+- [seed - A Rust framework for creating web apps](https://seed-rs.org/)
+- [Vugu - A modern UI library for Go+WebAssembly](https://www.vugu.org/)
 
-#### Data processing
+### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
-#### WebGL
+### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
 - [Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly](https://github.com/leefsmp/Particle-System)
 - [Oryol - a small, portable 3D coding framework written in C++](https://floooh.github.io/oryol/)
 
-#### webpack
+### webpack
 - [wasm-loader - WASM webpack loader](https://github.com/ballercat/wasm-loader)
 - [cpp-wasm-loader - C/C++ to WASM Webpack loader optimized for small bundle sizes](https://github.com/ClickSimply/cpp-wasm-loader)
 
-#### Browserify
+### Browserify
 - [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
 
-#### node.js
+### Node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 - [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
 - [go-wasm-cli - Minimalistic cli to create and run (with hot reload) Go application targeting WASM](https://github.com/mfrachet/go-wasm-cli)
@@ -138,7 +144,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno)
 - [Ooui.Wasm - A Xamarin.Forms backend for WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/praeclarum/Ooui)
 
-#### Others
+### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
 - [wasm - Python WebAssembly decoder & disassembler library](https://github.com/athre0z/wasm)
 - [MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library](https://github.com/dmlc/mxnet.js/)
@@ -151,64 +157,67 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
 
-### Languages
+## Languages
 
-#### Esoteric
+### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 
-#### Go
+### Go
 - [Go - Go programming language WebAssembly support](https://github.com/golang/go/wiki/WebAssembly)
 
-#### JavaScript-family
+### JavaScript-family
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/AssemblyScript/assemblyscript)
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)](https://github.com/01alchemist/TurboScript)
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js)
 
-#### Kotlin
+### Kotlin
 
 - [Kotlin/Native - Compile Kotlin code to native binaries](https://kotlinlang.org/docs/reference/native-overview.html)
 
-#### Lua
+### Lua
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 
-#### OCAML
+### OCAML
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 
-#### Python
+### Python
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
 
-#### Rust
+### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 - [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
 
-#### TCL
+### TCL
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
 
-#### WASM-like
+### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 - [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
 - [wam - Superset of wast syntax that is more convenient for humans to write directly](https://github.com/kanaka/wam)
 
-### Tools
+### Other
+- [Lys - a functional language that compiles to WebAssembly](https://github.com/lys-lang/lys)
 
-#### Kits
+## Tools
+
+### Kits
 - [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
 - [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
 
-#### Editor
+### Editor
 - [vim-wasm - WebAssembly filetype support for Vim](https://github.com/rhysd/vim-wasm)
 - [vscode wast - WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
 - [Atom language-wast](https://atom.io/packages/language-wast)
 - [vscode-wasm - WebAssembly toolkit for vscode](https://marketplace.visualstudio.com/items?itemName=dtsvet.vscode-wasm)
 
-### Gists
+## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
 - [helloworld.wast](https://gist.github.com/icefox/e58d23e860a0b525e0044cac120f667b)
 - [Using WebAssembly in LLVM](https://gist.github.com/yurydelendik/4eeff8248aeb14ce763e)
 - [Calling alert from WebAssembly (WASM)](https://gist.github.com/cure53/f4581cee76d2445d8bd91f03d4fa7d3b)
 
-### Examples
+## Examples
 - [webassembly-examples](https://github.com/mdn/webassembly-examples)
 - [Factorial in WebAssembly](https://www.hellorust.com/demos/factorial/index.html)
 - [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo)
@@ -220,18 +229,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [CppOpenGLWebAssemblyCMake - C++/OpenGL/OpenAL/GLFW/GLM based app built with CMake to native or WebAssembly](https://github.com/lukka/CppOpenGLWebAssemblyCMake)
 - [WebAssembly A* Pathfinding](https://github.com/jakedeichert/wasm-astar)
 
-### Benchmarks
+## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
 - [3D skeletal animation system](http://aws-website-webassemblyskeletalanimation-ffaza.s3-website-us-east-1.amazonaws.com/)
-- [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) vs [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html)
+- [Cubes JS](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.html) - [Cubes (WebAssembly)](http://kripken.github.com/ammo.js/examples/webgl_demo/ammo.wasm.html).
 - [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 - [Performance Testing Web Assembly vs JavaScript](https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875)
 - [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 
-### Job Boards
+## Job Boards
 - [WebAssembly Jobs](https://webassemblyjobs.com)
 
-### Articles
+## Articles
 - [Practice your Go WebAssembly with a Game (2019)](https://medium.com/@didil/practice-your-go-webassembly-with-a-game-7195dabbfc44)
 - [The world’s easiest introduction to WebAssembly with Golang (2019)](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 - [Writing WebAssembly By Hand (2018)](http://blog.scottlogic.com/2018/04/26/webassembly-by-hand.html)
@@ -259,7 +268,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Compiling to WebAssembly: It’s Happening! (2015)](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
 - [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
 
-### Video
+## Video
 - [Go WebAssembly Tutorial - Building a Calculator (2018-08)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
 - [Get Going with WebAssembly (2018-08)](https://www.youtube.com/watch?v=iTrx0BbUXI4)
 - [Build the future of the web with WebAssembly and more (Google I/O 2018-05)](https://www.youtube.com/watch?v=BnYq7JapeDA)
@@ -278,7 +287,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Web Assembly - Nick Bray - GOTO 2015 - (2015-10)](https://www.youtube.com/watch?v=NhAPPQqKCi8)
 - [From ASM.JS to WebAssembly (2015-06)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
 
-### Slides
+## Slides
 - [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
 - [WebAssembly (Do we all have to learn C now?)](http://callahad.github.io/tccc20-wasm/slides/#/)
 - [WebAssembly (2016)](https://marianoguerra.github.io/ricardo-forth/resources/slides.html#/webassembly)
@@ -286,26 +295,27 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Emscripten and WebAssembly (2015)](https://kripken.github.io/talks/wasm.html)
 - [An intro to WebAssembly (2015)](https://www.slideshare.net/danlbudden/an-introduction-to-webassembly)
 
-### Community
+## Community
 - [W3C Community Group](https://www.w3.org/community/webassembly/)
-- [StackOverflow](https://stackoverflow.com/questions/tagged/webassembly)
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/webassembly)
 - [Twitter](https://twitter.com/webassemblynews)
 - [Slack: WebAssembly Developers](https://webassemblydevelopers.slack.com) [(click here to get an invitation)](https://webassemblydevelopers.herokuapp.com/)
 - [WasmWeekly - a weekly newsletter](http://wasmweekly.news/)
 - [WebAssembly AMA](http://pages.catchpoint.com/webassembly-ama.html)
 
-### Papers
-- [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
-- [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
-
-### Books
+## Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
 - [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
 - [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
 - [WebAssembly in Action - Introduces the WebAssembly stack and walks you through the process of writing and running browser-based applications](https://www.manning.com/books/webassembly-in-action)
+- [Level up with WebAssembly - A practical guide to building WebAssembly applications](http://www.levelupwasm.com/)
 
-### Demos
-- [Tanks - a Unity game which has been exported to WebAssembly ](http://webassembly.org/demo/Tanks/)
+## Papers
+- [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
+- [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
+
+## Demos
+- [Tanks - a Unity game which has been exported to WebAssembly](http://webassembly.org/demo/Tanks/)
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
@@ -317,27 +327,26 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasmBoy Demo/Debugger - a Gameboy Emulation library written in Web Assembly using AssemblyScript](https://wasmboy.app/)
 - [DOOM 3 - Doom 3 WebAssembly port](http://wasm.continuation-labs.com/d3demo/)
 
-### Resources in other languages
+## Resources in other languages
 
-#### Simple Chinese
+### Simple Chinese
 - [WebAssembly 中文网](http://webassembly.org.cn/)
 - [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
-- [WebAssembly 中文文档](https://wasm-cn.org/)
 - [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
 - [WebAssembly资料精选 - 中文版](https://github.com/chai2010/awesome-wasm-zh)
 - [WebAssembly标准入门 - 第一本中文图书](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)
 - [C/C++面向wasm编程 - 第一本中文开源图书](https://github.com/3dgen/cppwasm-book)
 - [《深入浅出 WebAssembly》](https://zhuanlan.zhihu.com/p/47577104)
 
-#### Russian
+### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
 - [OdessaJS 2017 - Real world WebAssembly (video)](https://www.youtube.com/watch?v=kS29TT4wk44)
 - [Урок-введение по WebAssembly на примере игры “Жизнь” (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
 
-#### Spanish
+### Spanish
 - [Compilando para el navegador con WebAssembly (article)](http://juancrg90.me/essays/compilando-para-el-navegador-con-webassembly/)
 
-### License
+## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
