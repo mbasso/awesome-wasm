@@ -57,7 +57,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly MDN](https://developer.mozilla.org/en-US/docs/WebAssembly)
 - [WebAssembly Wikipedia](https://en.wikipedia.org/wiki/WebAssembly)
 - [WebAssembly Specification](https://webassembly.github.io/spec/)
-- [WebAssembly and Friends Roadmap](https://wasmdash.appspot.com/)
 - [WebAssembly Rocks](http://www.wasmrocks.com/)
 
 ## Online Playground
