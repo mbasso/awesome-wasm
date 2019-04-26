@@ -101,7 +101,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
-- [wasmjit - Kernel Mode WebAssembly Runtime for Linux](https://github.com/rianhunter/wasmjit)
 - [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer)
 - [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
 - [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
@@ -326,6 +325,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Roslyn Quoter - a WebAssembly-based Roslyn-based C# code quoter](http://roslynquoter-wasm.platform.uno/)
 - [wasmBoy Demo/Debugger - a Gameboy Emulation library written in Web Assembly using AssemblyScript](https://wasmboy.app/)
 - [DOOM 3 - Doom 3 WebAssembly port](http://wasm.continuation-labs.com/d3demo/)
+- [Squoosh.app - Compress and compare images with different codecs, right in your browser](https://squoosh.app)
 
 ## Resources in other languages
 
