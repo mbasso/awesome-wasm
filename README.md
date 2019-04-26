@@ -113,7 +113,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Web frameworks-libraries
 - [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
-- [Blazor - Microsoft's experimental web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://github.com/aspnet/blazor)
+- [Blazor - Microsoft's web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
 - [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
 - [go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)](https://github.com/mfrachet/go-vdom-wasm)
