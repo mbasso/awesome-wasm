@@ -11,5 +11,5 @@ matrix:
     - language: node_js
       node_js:
         - 'node'
-			git:
-				depth: false
+      git:
+        depth: false
