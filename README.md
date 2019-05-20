@@ -326,6 +326,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasmBoy Demo/Debugger - a Gameboy Emulation library written in Web Assembly using AssemblyScript](https://wasmboy.app/)
 - [DOOM 3 - Doom 3 WebAssembly port](http://wasm.continuation-labs.com/d3demo/)
 - [Squoosh.app - Compress and compare images with different codecs, right in your browser](https://squoosh.app)
+- [SketchUp - 3D modeling software](https://app.sketchup.com/app)
 
 ## Resources in other languages
 
