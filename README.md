@@ -213,7 +213,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
-- [helloworld.wast](https://gist.github.com/icefox/e58d23e860a0b525e0044cac120f667b)
 - [Using WebAssembly in LLVM](https://gist.github.com/yurydelendik/4eeff8248aeb14ce763e)
 - [Calling alert from WebAssembly (WASM)](https://gist.github.com/cure53/f4581cee76d2445d8bd91f03d4fa7d3b)
 
@@ -241,7 +240,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Jobs](https://webassemblyjobs.com)
 
 ## Articles
-- [WebAssembly at eBay: A Real-World Use Case](https://medium.com/ebaytech/webassembly-at-ebay-a-real-world-use-case-ef888f38b537)
+- [WebAssembly at eBay: A Real-World Use Case (2019)](https://medium.com/ebaytech/webassembly-at-ebay-a-real-world-use-case-ef888f38b537)
 - [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) (2019)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/) 
 - [Practice your Go WebAssembly with a Game (2019)](https://medium.com/@didil/practice-your-go-webassembly-with-a-game-7195dabbfc44)
 - [The world’s easiest introduction to WebAssembly with Golang (2019)](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
@@ -317,7 +316,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
 
 ## Demos
-- [Tanks - a Unity game which has been exported to WebAssembly](http://webassembly.org/demo/Tanks/)
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
