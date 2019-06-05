@@ -155,6 +155,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
+- [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 
 ## Languages
 
