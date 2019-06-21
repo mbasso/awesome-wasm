@@ -70,6 +70,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
+- [Hit the Ground Running with WebAssembly (2019)](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d)
+- [Porting Games to the Web with WebAssembly (2019)](https://medium.com/@robaboukhalil/porting-games-to-the-web-with-webassembly-70d598e1a3ec?source=friends_link&sk=20c835664031227eae5690b8a12514f0)
+- [Level up Command-line Playgrounds with WebAssembly (2019)](https://opensource.com/article/19/4/command-line-playgrounds-webassembly)
 - [WebAssembly Physics and DOM objects (2018)](https://codelabs.developers.google.com/codelabs/hour-chipmunk/index.html)
 - [egghead.io: Get Started Using WebAssembly (WASM)(2017)](https://egghead.io/courses/introduction-to-webassembly)
 - [The Path to Rust on the Web (2017)](https://hoverbear.org/2017/04/06/the-path-to-rust-on-the-web/)
@@ -270,6 +273,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
 
 ## Video
+- [Level up Your Web Apps with WebAssembly (PerfMatters Conference 2019-04)](https://www.youtube.com/watch?v=o-2PLhMVBYU)
 - [Go WebAssembly Tutorial - Building a Calculator (2018-08)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
 - [Get Going with WebAssembly (2018-08)](https://www.youtube.com/watch?v=iTrx0BbUXI4)
 - [Build the future of the web with WebAssembly and more (Google I/O 2018-05)](https://www.youtube.com/watch?v=BnYq7JapeDA)
