@@ -217,6 +217,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Calling alert from WebAssembly (WASM)](https://gist.github.com/cure53/f4581cee76d2445d8bd91f03d4fa7d3b)
 
 ## Examples
+- [The Windows 10 calculator running in WebAssembly](https://platform.uno/a-piece-of-windows-10-is-now-running-on-webassembly-natively-on-ios-and-android/)
 - [webassembly-examples](https://github.com/mdn/webassembly-examples)
 - [Factorial in WebAssembly](https://www.hellorust.com/demos/factorial/index.html)
 - [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo)
