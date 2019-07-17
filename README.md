@@ -35,6 +35,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Tools](#tools)
   - [Kits](#kits)
   - [Editor](#editor)
+  - [Other tools](#other-tools)
 - [Gists](#gists)
 - [Examples](#examples)
 - [Benchmarks](#benchmarks)
@@ -211,6 +212,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [vscode wast - WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
 - [Atom language-wast](https://atom.io/packages/language-wast)
 - [vscode-wasm - WebAssembly toolkit for vscode](https://marketplace.visualstudio.com/items?itemName=dtsvet.vscode-wasm)
+
+### Other tools
+- [WebAssembly Visual Server - Graphical application to serve WebAssembly modules](https://thewaywarddeveloper.com/webassembly-visual-server)
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
