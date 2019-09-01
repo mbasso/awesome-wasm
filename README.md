@@ -192,6 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 - [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
+- [awesome-rust](https://github.com/rust-unofficial/awesome-rust) (*has scattered references to targeting WASM*)
 
 ### TCL
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
@@ -248,7 +249,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Articles
 - [WebAssembly at eBay: A Real-World Use Case (2019)](https://medium.com/ebaytech/webassembly-at-ebay-a-real-world-use-case-ef888f38b537)
-- [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) (2019)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/) 
+- [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) (2019)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
 - [Practice your Go WebAssembly with a Game (2019)](https://medium.com/@didil/practice-your-go-webassembly-with-a-game-7195dabbfc44)
 - [The world’s easiest introduction to WebAssembly with Golang (2019)](https://medium.com/@martinolsansky/webassembly-with-golang-is-fun-b243c0e34f02)
 - [Why WebAssembly? (2018)](https://medium.com/dfinity/why-webassembly-f21967076e4)
@@ -318,6 +319,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
 - [Learn WebAssembly - Build web applications with native performance using Wasm and C/C++](https://www.packtpub.com/web-development/learn-webassembly)
 - [Programming WebAssembly with Rust - Unified Development for Web, Mobile, and Embedded Applications](https://pragprog.com/book/khrust/programming-webassembly-with-rust)
+- [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 - [WebAssembly in Action - Introduces the WebAssembly stack and walks you through the process of writing and running browser-based applications](https://www.manning.com/books/webassembly-in-action)
 - [Level up with WebAssembly - A practical guide to building WebAssembly applications](http://www.levelupwasm.com/)
 
