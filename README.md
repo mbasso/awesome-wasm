@@ -279,6 +279,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
 
 ## Video
+- [What is WebAssembly? By Some of its Creators (2019-08)](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
 - [Level up Your Web Apps with WebAssembly (PerfMatters Conference 2019-04)](https://www.youtube.com/watch?v=o-2PLhMVBYU)
 - [Go WebAssembly Tutorial - Building a Calculator (2018-08)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
 - [Get Going with WebAssembly (2018-08)](https://www.youtube.com/watch?v=iTrx0BbUXI4)
