@@ -169,6 +169,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Go
 - [Go - Go programming language WebAssembly support](https://github.com/golang/go/wiki/WebAssembly)
 - [Compiling Go to WebAssembly](https://www.sitepen.com/blog/compiling-go-to-webassembly/)
+- [VueGo -  WebAssembly Vue.js wrapper written in Go](https://gitlab.com/AndrusGerman/vuego)
 
 ### JavaScript-family
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/AssemblyScript/assemblyscript)
