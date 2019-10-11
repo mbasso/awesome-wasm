@@ -327,7 +327,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Level up with WebAssembly - A practical guide to building WebAssembly applications](http://www.levelupwasm.com/)
 
 ## Papers
-- [Bringing the Web up to Speed with WebAssembly](https://docs.google.com/viewer?url=https://github.com/WebAssembly/spec/raw/master/papers/pldi2017.pdf)
+- [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
 
 ## Demos
