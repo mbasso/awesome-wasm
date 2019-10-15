@@ -141,6 +141,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 - [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
 - [go-wasm-cli - Minimalistic cli to create and run (with hot reload) Go application targeting WASM](https://github.com/mfrachet/go-wasm-cli)
+- [xwasm - WebAssembly Packager and WASM tooling for modern frontend](https://github.com/raphamorim/xwasm)
 
 ### .NET
 - [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno)
