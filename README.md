@@ -192,7 +192,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
-- [parity-wasm - WebAssembly interpreter, decoder and encoder in pure Rust](https://github.com/paritytech/parity-wasm)
+- [parity-wasm - WebAssembly serialization/deserialization library in pure Rust](https://github.com/paritytech/parity-wasm)
+- [wasmi - WebAssembly interpreter in pure Rust](https://github.com/paritytech/wasmi)
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) (*has scattered references to targeting WASM*)
 
 ### TCL
