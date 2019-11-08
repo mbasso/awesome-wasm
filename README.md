@@ -238,6 +238,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [CppOpenGLWebAssemblyCMake - C++/OpenGL/OpenAL/GLFW/GLM based app built with CMake to native or WebAssembly](https://github.com/lukka/CppOpenGLWebAssemblyCMake)
 - [WebAssembly A* Pathfinding](https://github.com/jakedeichert/wasm-astar)
 - [HackerNews PWA with wasm-bindgen](https://github.com/ragingwind/wasm-hnpwa)
+- [TiDB playground - writing SQL in an in-browser golang database in WebAssembly](https://tour.tidb.io/)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
