@@ -292,7 +292,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly and the Death of JavaScript? (2018-02)](https://www.youtube.com/watch?v=pBYqen3B2gc)
 - [Practical WebAssembly (2017-12)](https://www.youtube.com/watch?v=bac0dGQbUto)
 - [Real World WebAssembly (Chrome Dev Summit 2017-10)](https://www.youtube.com/watch?v=PpuAqLCraAQ)
-- [WebAssembly and the Future of the Web (2017-07)](https://skillsmatter.com/skillscasts/10363-webassembly-and-the-future-of-the-web)
 - [Andreas Rossberg - Bringing the Web up to Speed with WebAssembly (2017-06)](https://www.youtube.com/watch?v=AFy5TdrFG9Y)
 - [Compiling for the Web with WebAssembly (Google I/O 2017-05)](https://www.youtube.com/watch?v=6v4E6oksar0)
 - [A Cartoon Intro to WebAssembly (2017-05)](https://www.youtube.com/watch?list=PL37ZVnwpeshFmAPr65sU2O5WMs7_CGjs_&v=HktWin_LPf4)
