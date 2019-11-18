@@ -337,7 +337,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
-- [Epic Zen Garden](https://s3.amazonaws.com/mozilla-games/ZenGarden/EpicZenGarden.html)
 - [Funky Karts](https://www.funkykarts.rocks/demo.html)
 - [PSPDFKit for Web - a WebAssembly-based PDF viewer with annotation features](https://web-preview.pspdfkit.com/standalone/6)
 - [Uno Platform Playground - a WebAssembly-based XAML playground](http://playground.platform.uno)
