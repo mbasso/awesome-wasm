@@ -100,12 +100,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly](https://github.com/mirkosertic/Bytecoder)
 
 ## Non-Web Embeddings
+
 - [WASI - The WebAssembly System Interface](https://wasi.dev/)
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
 - [Olin - WebAssembly on the server](https://github.com/Xe/olin)
 - [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer)
+  - [Wasmer for Go](https://github.com/wasmerio/go-ext-wasm)
+  - [Wasmer for Python](https://github.com/wasmerio/python-ext-wasm)
+  - [Wasmer for PHP](https://github.com/wasmerio/php-ext-wasm)
+  - [Wasmer for Ruby](https://github.com/wasmerio/ruby-ext-wasm)
+  - [Wasmer for Postgres](https://github.com/wasmerio/postgres-ext-wasm)
 - [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
 - [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
 - [pywasm - WebAssembly interpreter written in pure Python](https://github.com/mohanson/pywasm)
