@@ -128,6 +128,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)](https://github.com/mfrachet/go-vdom-wasm)
 - [seed - A Rust framework for creating web apps](https://seed-rs.org/)
 - [Vugu - A modern UI library for Go+WebAssembly](https://www.vugu.org/)
+- [zwitterion - A web dev server that lets you import anything*](https://github.com/lastmjs/zwitterion)
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
