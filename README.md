@@ -310,6 +310,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Web Assembly - Nick Bray - BlinkOn 5 - (2015-11)](https://www.youtube.com/watch?v=iCSAUHpPbiU)
 - [Web Assembly - Nick Bray - GOTO 2015 - (2015-10)](https://www.youtube.com/watch?v=NhAPPQqKCi8)
 - [From ASM.JS to WebAssembly (2015-06)](https://brendaneich.com/2015/06/from-asm-js-to-webassembly/)
+- [A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)](https://www.youtube.com/watch?v=r-A78RgMhZU)
 
 ## Slides
 - [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
