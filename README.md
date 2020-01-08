@@ -102,6 +102,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Non-Web Embeddings
 
 - [WASI - The WebAssembly System Interface](https://wasi.dev/)
+- [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](https://github.com/wasm3/wasm3)
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
