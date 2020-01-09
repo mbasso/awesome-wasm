@@ -30,6 +30,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Python](#python)
   - [Rust](#rust)
   - [TCL](#tcl)
+	- [Racket](#racket)
   - [WASM-like](#wasm-like)
   - [Other](#other)
 - [Tools](#tools)
@@ -207,6 +208,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### TCL
 - [wacl - Tcl Interpreter in WASM with browser extensions](https://fossil.e-lehmann.de/wacl/index)
+
+### Racket
+- [wacket - Racket to WebAssembly "compiler"](https://github.com/tsoding/wacket)
+
+### Assembly
+
+- [wassm - Web framework for x86_64 nasm](https://github.com/tsoding/wassm)
 
 ### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
