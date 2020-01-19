@@ -247,6 +247,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly A* Pathfinding](https://github.com/jakedeichert/wasm-astar)
 - [HackerNews PWA with wasm-bindgen](https://github.com/ragingwind/wasm-hnpwa)
 - [TiDB playground - writing SQL in an in-browser golang database in WebAssembly](https://tour.tidb.io/)
+- [Made With Webassembly - Showcase of Awesome Production Applications, Side Projects, and Use Cases Made With Webassembly](https://madewithwebassembly.com/)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
