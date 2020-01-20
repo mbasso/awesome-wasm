@@ -282,7 +282,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Previewing the WebAssembly Explorer (2017)](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
 - [Why WebAssembly is a game changer for the web — and a source of pride for Mozilla and Firefox (2017)](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
 - [Introduction to WebAssembly (2017)](https://rsms.me/wasm-intro)
-- [Boost your Web Application with C++! Emscripten, ASM.js, Web Assembly... (2016)](https://forge.autodesk.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html)
+- [Boost your Web Application with C++! Emscripten, ASM.js, Web Assembly (2016)](https://forge.autodesk.com/cloud_and_mobile/2016/07/boost-your-web-application-with-c-emscripten-asmjs-web-assembly-.html)
 - [What is WebAssembly? (2015)](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
 - [7 Things You Should Know About WebAssembly (2015)](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/)
 - [WebAssembly: a binary format for the web (2015)](http://2ality.com/2015/06/web-assembly.html)
