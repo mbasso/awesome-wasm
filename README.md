@@ -117,6 +117,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
 - [pywasm - WebAssembly interpreter written in pure Python](https://github.com/mohanson/pywasm)
 - [Wasabi - WebAssembly runtime designed for multitenancy](https://github.com/maxmcd/wasabi)
+- [Manticore - Symbolic execution engine with support for WebAssembly](https://github.com/trailofbits/manticore)
 
 
 ## Projects
