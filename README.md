@@ -246,6 +246,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [HackerNews PWA with wasm-bindgen](https://github.com/ragingwind/wasm-hnpwa)
 - [TiDB playground - writing SQL in an in-browser golang database in WebAssembly](https://tour.tidb.io/)
 - [Made With Webassembly - Showcase of Awesome Production Applications, Side Projects, and Use Cases Made With Webassembly](https://madewithwebassembly.com/)
+- [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
