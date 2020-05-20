@@ -213,6 +213,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Other
 - [Lys - a functional language that compiles to WebAssembly](https://github.com/lys-lang/lys)
+- [Never - statically typed, embeddable functional programming language](https://github.com/never-lang/never)
 
 ## Tools
 
