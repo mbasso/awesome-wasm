@@ -339,6 +339,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Rust and WebAssembly](https://rustwasm.github.io/docs/book/)
 - [WebAssembly in Action - Introduces the WebAssembly stack and walks you through the process of writing and running browser-based applications](https://www.manning.com/books/webassembly-in-action)
 - [Level up with WebAssembly - A practical guide to building WebAssembly applications](http://www.levelupwasm.com/)
+- [Hands-On Game Development with WebAssembly](https://www.packtpub.com/game-development/hands-game-development-webassembly)
 
 ## Papers
 - [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
