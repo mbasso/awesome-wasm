@@ -105,6 +105,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 - [WASI - The WebAssembly System Interface](https://wasi.dev/)
 - [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](https://github.com/wasm3/wasm3)
+- [fizzy - Fast, deterministic, and pedantic WebAssembly interpreter written in clean C++17](https://github.com/wasmx/fizzy)
+- [wamr - WebAssembly Micro Runtime (WAMR) is an interpreter focusing on small footprint](https://github.com/bytecodealliance/wasm-micro-runtime)
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
@@ -116,12 +118,19 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Wasmer for Ruby](https://github.com/wasmerio/ruby-ext-wasm)
   - [Wasmer for Postgres](https://github.com/wasmerio/postgres-ext-wasm)
 - [warpy - WebAssembly in RPython](https://github.com/kanaka/warpy)
+- [pywebassembly - WebAssembly interpreter written in pure Python](https://github.com/poemm/pywebassembly)
+- [py-wasm - WebAssembly interpreter written in pure Python](https://github.com/ethereum/py-wasm)
+- [pywasm - WebAssembly interpreter written in pure Python.](https://github.com/mohanson/pywasm)
+- [wabt - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/wabt)
+- [binaryen - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/binaryen)
+- [wagon - WebAssembly interpter written in Go](https://github.com/go-interpreter/wagon)
 - [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
 - [pywasm - WebAssembly interpreter written in pure Python](https://github.com/mohanson/pywasm)
 - [Wasabi - WebAssembly runtime designed for multitenancy](https://github.com/maxmcd/wasabi)
 - [SSVM - WebAssembly Virtual Machine for AI and Blockchain applications](https://github.com/second-state/SSVM)
 - [Manticore - Symbolic execution engine with support for WebAssembly](https://github.com/trailofbits/manticore)
 - [WAVM - WebAssembly virtual machine, designed for use in non-web applications](https://github.com/WAVM/WAVM)
+- [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
 
 
 ## Projects
