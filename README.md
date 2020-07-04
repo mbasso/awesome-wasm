@@ -207,6 +207,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [parity-wasm - WebAssembly serialization/deserialization library in pure Rust](https://github.com/paritytech/parity-wasm)
 - [wasmi - WebAssembly interpreter in pure Rust](https://github.com/paritytech/wasmi)
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) (*has scattered references to targeting WASM*)
+- [Rust WebAssembly Starter - Get Started With Rust and WebAssembly in Seconds](https://github.com/kvendrik/rust-wasm-starter)
 
 ### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
