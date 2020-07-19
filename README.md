@@ -318,6 +318,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpreter)](https://www.youtube.com/watch?v=r-A78RgMhZU)
 
 ## Slides
+- [Web Assembly for Dumb People (2020)](https://wasm-talk.johnny.sh/#0)
 - [Boost your web application with C++ (2016)](https://leefsmp.github.io/Particle-System/slides/index.html)
 - [WebAssembly (Do we all have to learn C now?)](http://callahad.github.io/tccc20-wasm/slides/#/)
 - [WebAssembly (2016)](https://marianoguerra.github.io/ricardo-forth/resources/slides.html#/webassembly)
