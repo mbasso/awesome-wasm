@@ -120,6 +120,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Wasabi - WebAssembly runtime designed for multitenancy](https://github.com/maxmcd/wasabi)
 - [SSVM - WebAssembly Virtual Machine for AI and Blockchain applications](https://github.com/second-state/SSVM)
 - [Manticore - Symbolic execution engine with support for WebAssembly](https://github.com/trailofbits/manticore)
+- [WAVM - WebAssembly virtual machine, designed for use in non-web applications](https://github.com/WAVM/WAVM)
 
 
 ## Projects
