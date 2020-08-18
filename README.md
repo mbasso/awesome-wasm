@@ -86,6 +86,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly — The missing tutorial (2016)](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
 - [Webassembly initial steps tutorial (2016)](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
 - [WebAssemblyMan – man page for WebAssembly.](https://www.webassemblyman.com)
+- [First steps with WebAssembly in Rust](https://aralroca.com/blog/first-steps-webassembly-rust)
 
 ## Compilers
 - [Emscripten - LLVM-based project that compiles C and C++](http://kripken.github.io/emscripten-site/)
