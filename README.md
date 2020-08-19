@@ -70,6 +70,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
 - [Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly](https://wasmbyexample.dev/)
+- [First steps with WebAssembly in Rust (2020)](https://aralroca.com/blog/first-steps-webassembly-rust)
 - [Hit the Ground Running with WebAssembly (2019)](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d)
 - [Uno Platform Bootcamp - single-source WASM & Mobile app tutorial (2019)](https://github.com/unoplatform/workshops/tree/master/uno-bootcamp)
 - [Porting Games to the Web with WebAssembly (2019)](https://medium.com/@robaboukhalil/porting-games-to-the-web-with-webassembly-70d598e1a3ec?source=friends_link&sk=20c835664031227eae5690b8a12514f0)
