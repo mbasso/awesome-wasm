@@ -69,6 +69,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
 - [Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly](https://wasmbyexample.dev/)
+- [Hands-On Webassembly: Try the Basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) 
 - [First steps with WebAssembly in Rust (2020)](https://aralroca.com/blog/first-steps-webassembly-rust)
 - [Using the import statement with an Emscripten-generated module in Vue.js (2020)](https://cggallant.blogspot.com/2020/01/the-import-statement-with-emscripten.html)
 - [Hit the Ground Running with WebAssembly (2019)](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d)
