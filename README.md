@@ -71,6 +71,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly](https://wasmbyexample.dev/)
 - [Hands-On Webassembly: Try the Basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) 
 - [First steps with WebAssembly in Rust (2020)](https://aralroca.com/blog/first-steps-webassembly-rust)
+- [WebAssembly threads in Firefox (2020)](https://cggallant.blogspot.com/2020/07/webassembly-threads-in-firefox.html)
 - [Using the import statement with an Emscripten-generated module in Vue.js (2020)](https://cggallant.blogspot.com/2020/01/the-import-statement-with-emscripten.html)
 - [Hit the Ground Running with WebAssembly (2019)](https://medium.com/@robaboukhalil/hit-the-ground-running-with-webassembly-56cf9b2fa35d)
 - [Uno Platform Bootcamp - single-source WASM & Mobile app tutorial (2019)](https://github.com/unoplatform/workshops/tree/master/uno-bootcamp)
