@@ -148,7 +148,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
-- [Modfy - Wasm Video Transcoder](https://modfy.video/)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
@@ -265,6 +264,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Made With Webassembly - Showcase of Awesome Production Applications, Side Projects, and Use Cases Made With Webassembly](https://madewithwebassembly.com/)
 - [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
+- [Modfy - Wasm Video Transcoder](https://modfy.video/)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
