@@ -128,7 +128,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [binaryen - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/binaryen)
 - [wagon - WebAssembly interpter written in Go](https://github.com/go-interpreter/wagon)
 - [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime)
-- [pywasm - WebAssembly interpreter written in pure Python](https://github.com/mohanson/pywasm)
 - [embly - A serverless web application framework for collaboration and scale](https://github.com/embly/embly)
 - [SSVM - WebAssembly Virtual Machine for AI and Blockchain applications](https://github.com/second-state/SSVM)
 - [Manticore - Symbolic execution engine with support for WebAssembly](https://github.com/trailofbits/manticore)
