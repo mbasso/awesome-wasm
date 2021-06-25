@@ -211,6 +211,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### OCAML
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
+- [wasicaml - Translate OCaml Bytecode to WASM](https://github.com/remixlabs/wasicaml/)
 
 ### Python
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
