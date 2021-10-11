@@ -109,7 +109,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WASI - The WebAssembly System Interface](https://wasi.dev/)
 - [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](https://github.com/wasm3/wasm3)
 - [fizzy - Fast, deterministic, and pedantic WebAssembly interpreter written in clean C++17](https://github.com/wasmx/fizzy)
-- [wamr - WebAssembly Micro Runtime (WAMR) is an interpreter focusing on small footprint](https://github.com/bytecodealliance/wasm-micro-runtime)
+- [wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint](https://github.com/bytecodealliance/wasm-micro-runtime)
 - [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac)
 - [Asmble - WebAssembly on the JVM](https://github.com/cretz/asmble)
 - [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine)
