@@ -214,6 +214,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Python
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
+- [futurecoder](https://github.com/alexmojaki/futurecoder) is an interactive Python course running on Pyodide. It includes an
+  [IDE](https://futurecoder.io/course/#ide) with a REPL, debuggers, and supports Pyodide's `micropip`.
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
 
 ### Rust
