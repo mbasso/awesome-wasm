@@ -275,6 +275,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Performance Testing Web Assembly vs JavaScript](https://medium.com/samsung-internet-dev/performance-testing-web-assembly-vs-javascript-e07506fd5875)
 - [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 - [Wasm vs. PNaCl Performance Benchmark by PDFTron](https://www.pdftron.com/blog/wasm/wasm-vs-pnacl/)
+- [JavaScript vs WebAssembly running in Browser/Nodejs](https://originjs.org/WASM-benchmark/)
 
 ## Job Boards
 - [WebAssembly Jobs](https://webassemblyjobs.com)
