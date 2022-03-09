@@ -392,7 +392,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Урок-введение по WebAssembly на примере игры "Жизнь" (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
 
 ### Spanish
-- [Compilando para el navegador con WebAssembly (article)](http://juancrg90.me/essays/compilando-para-el-navegador-con-webassembly/)
+- [Compilando para el navegador con WebAssembly (article)](https://juancrg90.me/essays/compilando-para-el-navegador-con-webassembly)
 
 ## License
 
