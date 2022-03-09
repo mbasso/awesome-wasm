@@ -138,6 +138,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Projects
 
 ### Web frameworks-libraries
+- [asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME](https://github.com/lume/asdom)
 - [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
 - [Blazor - Microsoft's web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
@@ -152,6 +153,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
+- [glas - Web**GL** in WebAssembly with **A**ssembly**S**cript, by LUME](https://github.com/lume/glas)
 - [Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly](https://github.com/leefsmp/Particle-System)
 - [Oryol - a small, portable 3D coding framework written in C++](https://floooh.github.io/oryol/)
 
