@@ -210,6 +210,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Lua
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
+- [wasmoon - a high level Lua VM with JS bindings](https://github.com/ceifa/wasmoon)
 
 ### OCAML
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
