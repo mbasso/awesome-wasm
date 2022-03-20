@@ -205,6 +205,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Getting Started with AssemblyScript](https://www.sitepen.com/blog/getting-started-with-assemblyscript/)
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)](https://github.com/01alchemist/TurboScript)
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js)
+- [LichenScript - A TypeScript-like language that compiles to C and JavaScript](https://github.com/lichenscript/lichenscript)
 
 ### Kotlin
 - [Kotlin/Native - Compile Kotlin code to native binaries](https://kotlinlang.org/docs/reference/native-overview.html)
