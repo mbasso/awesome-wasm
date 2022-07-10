@@ -218,8 +218,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasicaml - Translate OCaml Bytecode to WASM](https://github.com/remixlabs/wasicaml/)
 
 ### Python
-- [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
+- [Pyodide - The Python scientific stack running in the browser](https://github.com/pyscript/)
+- [PyScript - Run Python Code and the scientific stack in the browser](https://github.com/iodide-project/pyodide)
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
+
 
 ### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
