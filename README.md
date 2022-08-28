@@ -29,6 +29,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [OCAML](#ocaml)
   - [Python](#python)
   - [Rust](#rust)
+  - [Forth](#forth)
   - [WASM-like](#wasm-like)
   - [Other](#other)
 - [Tools](#tools)
@@ -190,6 +191,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
+- [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 
 ## Languages
 
@@ -219,14 +221,21 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasicaml - Translate OCaml Bytecode to WASM](https://github.com/remixlabs/wasicaml/)
 
 ### Python
-- [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
+- [Pyodide - The Python scientific stack running in the browser](https://github.com/pyscript/)
+- [PyScript - Run Python Code and the scientific stack in the browser](https://github.com/iodide-project/pyodide)
+- [python-wasm - WebAssembly CPython for Node.js and the browser built using Zig (no emscripten)](https://python-wasm.cocalc.com/)
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
+
 
 ### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 - [parity-wasm - WebAssembly serialization/deserialization library in pure Rust](https://github.com/paritytech/parity-wasm)
 - [wasmi - WebAssembly interpreter in pure Rust](https://github.com/paritytech/wasmi)
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) (*has scattered references to targeting WASM*)
+
+### Forth
+
+- [WAForth - Bootstrapping Dynamic Forth Interpreter/Compiler for & in WebAssembly](https://github.com/remko/waforth)
 
 ### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
@@ -316,6 +325,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly: a binary format for the web (2015)](http://2ality.com/2015/06/web-assembly.html)
 - [Compiling to WebAssembly: It's Happening! (2015)](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
 - [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
+- [WebAssembly Everywhere](https://byrnemluke.com/posts/webassembly)
 
 ## Video
 - [What is WebAssembly? By Some of its Creators (2019-08)](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
@@ -368,6 +378,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Papers
 - [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
+- [An Empirical Study of Real-World WebAssembly Binaries: Security, Languages, Use Cases](https://dlehmann.eu/publications/WasmBench-www2021.pdf)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
