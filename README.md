@@ -190,6 +190,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
 - [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
+- [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 
 ## Languages
