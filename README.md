@@ -189,6 +189,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
 - [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
+- [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 
 ## Languages
 
@@ -367,6 +368,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Papers
 - [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
+- [An Empirical Study of Real-World WebAssembly Binaries: Security, Languages, Use Cases](https://dlehmann.eu/publications/WasmBench-www2021.pdf)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
