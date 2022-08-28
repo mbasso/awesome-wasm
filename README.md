@@ -189,6 +189,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
 - [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
+- [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 
 ## Languages
 
@@ -220,6 +221,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Python
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/pyscript/)
 - [PyScript - Run Python Code and the scientific stack in the browser](https://github.com/iodide-project/pyodide)
+- [python-wasm - WebAssembly CPython for Node.js and the browser built using Zig (no emscripten)](https://python-wasm.cocalc.com/)
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
 
 
@@ -369,6 +371,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Papers
 - [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
+- [An Empirical Study of Real-World WebAssembly Binaries: Security, Languages, Use Cases](https://dlehmann.eu/publications/WasmBench-www2021.pdf)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
