@@ -183,7 +183,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [YAKC - a multi-system 8-bit emulator written in C++](https://floooh.github.io/virtualkc/index_wasm.html)
 - [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa)
 - [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser)
-- [@deliberative/crypto - Public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling](https://github.com/deliberative/crypto)
 - [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm)
 - [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm)
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
@@ -193,6 +192,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
+- [@deliberative/crypto - Public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling](https://github.com/deliberative/crypto)
 
 ## Languages
 
