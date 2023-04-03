@@ -295,6 +295,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Jobs](https://webassemblyjobs.com)
 
 ## Articles
+- [WebAssembly Fixed-Width SIMD from C# (2023)](https://platform.uno/blog/safari-16-4-support-for-webassembly-fixed-width-simd-how-to-use-it-with-c/)
 - [WebAssembly and SIMD: A Match Made in the Browser (2020)](https://medium.com/@robaboukhalil/webassembly-and-simd-7a7daa4f2ecd)
 - [WebAssembly at eBay: A Real-World Use Case (2019)](https://medium.com/ebaytech/webassembly-at-ebay-a-real-world-use-case-ef888f38b537)
 - [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) (2019)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
