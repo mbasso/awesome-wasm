@@ -209,7 +209,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js)
 
 ### Kotlin
-- [Kotlin/Native - Compile Kotlin code to native binaries](https://kotlinlang.org/docs/reference/native-overview.html)
+- [Kotlin/Wasm (Kotlin WebAssembly)](https://kotl.in/wasm)
 
 ### Lua
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
