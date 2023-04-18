@@ -396,7 +396,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Resources in other languages
 
-### Simple Chinese
+### Simplified Chinese
 - [WebAssembly 中文网](http://webassembly.org.cn/)
 - [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
 - [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
