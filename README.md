@@ -191,6 +191,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
+- [@deliberative/crypto - Public key cryptography, AEAD secret boxes, Shamir secret sharing and random shuffling](https://github.com/deliberative/crypto)
 
 ## Languages
 
