@@ -211,6 +211,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Kotlin
 - [Kotlin/Wasm (Kotlin WebAssembly)](https://kotl.in/wasm)
 
+### Lox
+- [loxcraft - Lox VM running in a WASM environment](https://github.com/ajeetdsouza/loxcraft)
+
 ### Lua
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
 - [wasmoon - a high level Lua VM with JS bindings](https://github.com/ceifa/wasmoon)
