@@ -280,6 +280,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
 - [Modfy - Wasm Video Transcoder](https://modfy.video/)
+- [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/jaomag/boytacean)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
