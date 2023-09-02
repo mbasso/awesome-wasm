@@ -194,6 +194,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Languages
 
+### Ada
+- [adawebpack - GNAT-LLVM compiler for WebAssembly target, GNAT Run Time Library and Ada bindings for Web API](https://github.com/godunko/adawebpack)
+ 
 ### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 
