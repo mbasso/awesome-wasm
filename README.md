@@ -13,6 +13,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
   - [Web frameworks-libraries](#web-frameworks-libraries)
+  - [Apache Server](#apache-server)
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
   - [webpack](#webpack)
