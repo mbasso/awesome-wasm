@@ -175,6 +175,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Browserify
 - [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify)
 
+### BrowserVM
+- [BrowserVM: An efficient X86-64 full-system emulator based on WebAssembly and QEMU](https://github.com/elliott-wen/browservm.js)
+
 ### Node.js
 - [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly)
 - [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack)
