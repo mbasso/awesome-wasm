@@ -28,6 +28,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Lua](#lua)
   - [OCAML](#ocaml)
   - [Python](#python)
+  - [Prolog](#prolog)
   - [Rust](#rust)
   - [Forth](#forth)
   - [WASM-like](#wasm-like)
