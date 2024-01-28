@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Compilers](#compilers)
 - [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
+  - [AI](#ai)
   - [Web frameworks-libraries](#web-frameworks-libraries)
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
@@ -60,7 +61,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
-- [WebAssembly Playground](http://ast.run/)
 - [WasmFiddle](https://wasdk.github.io/WasmFiddle/)
 - [Assembleash - WebAssembly and Typescript-like languages playground](https://github.com/MaxGraey/Assembleash)
 - [Wat2Wasm](https://cdn.rawgit.com/WebAssembly/wabt/fb986fbd/demo/wat2wasm/)
@@ -137,6 +137,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Projects
 
+### AI
+- [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+
 ### Web frameworks-libraries
 - [asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME](https://github.com/lume/asdom)
 - [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
@@ -191,6 +194,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
+- [gtree - Web app that converts from Markdown to tree using WebAssembly](https://ddddddo.github.io/gtree/)
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 
 ## Languages
@@ -210,7 +214,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js)
 
 ### Kotlin
-- [Kotlin/Native - Compile Kotlin code to native binaries](https://kotlinlang.org/docs/reference/native-overview.html)
+- [Kotlin/Wasm (Kotlin WebAssembly)](https://kotl.in/wasm)
 
 ### Lua
 - [wasm_lua - Lua VM running in a WASM environment](https://github.com/vvanders/wasm_lua)
@@ -281,6 +285,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
 - [Modfy - Wasm Video Transcoder](https://modfy.video/)
+- [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy)
+- [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/joamag/boytacean)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
@@ -296,6 +302,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Jobs](https://webassemblyjobs.com)
 
 ## Articles
+- [WebAssembly Fixed-Width SIMD from C# (2023)](https://platform.uno/blog/safari-16-4-support-for-webassembly-fixed-width-simd-how-to-use-it-with-c/)
 - [WebAssembly and SIMD: A Match Made in the Browser (2020)](https://medium.com/@robaboukhalil/webassembly-and-simd-7a7daa4f2ecd)
 - [WebAssembly at eBay: A Real-World Use Case (2019)](https://medium.com/ebaytech/webassembly-at-ebay-a-real-world-use-case-ef888f38b537)
 - [How We Used WebAssembly To Speed Up Our Web App By 20X (Case Study) (2019)](https://www.smashingmagazine.com/2019/04/webassembly-speed-web-app/)
@@ -328,6 +335,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Everywhere](https://byrnemluke.com/posts/webassembly)
 
 ## Video
+- [The Complete WebAssembly Course - From Beginner to Advanced! (2024-01)](https://www.youtube.com/watch?v=eYekV2Do0YU)
 - [What is WebAssembly? By Some of its Creators (2019-08)](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
 - [Level up Your Web Apps with WebAssembly (PerfMatters Conference 2019-04)](https://www.youtube.com/watch?v=o-2PLhMVBYU)
 - [Go WebAssembly Tutorial - Building a Calculator (2018-08)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
@@ -379,6 +387,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
 - [An Empirical Study of Real-World WebAssembly Binaries: Security, Languages, Use Cases](https://dlehmann.eu/publications/WasmBench-www2021.pdf)
+- [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/system/files/atc19-jangda.pdf)
+- [Provably-Safe Multilingual Software Sandboxing using WebAssembly](https://www.usenix.org/system/files/sec22-bosamiya.pdf)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
@@ -397,7 +407,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Resources in other languages
 
-### Simple Chinese
+### Simplified Chinese
 - [WebAssembly 中文网](http://webassembly.org.cn/)
 - [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
 - [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
