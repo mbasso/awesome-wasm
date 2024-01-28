@@ -12,7 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Compilers](#compilers)
 - [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
-	- [AI](#ai)
+  - [AI](#ai)
   - [Web frameworks-libraries](#web-frameworks-libraries)
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
