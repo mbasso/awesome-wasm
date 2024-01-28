@@ -69,6 +69,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
 - [Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly](https://wasmbyexample.dev/)
+- [Introduction to WebAssembly Text (2021)](https://awesome.red-badger.com/chriswhealy/introduction-to-web-assembly-text)
 - [Hands-On Webassembly: Try the Basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) 
 - [Using WebAssembly modules in C# (2020)](https://platform.uno/blog/using-webassembly-modules-in-c/)
 - [First steps with WebAssembly in Rust (2020)](https://aralroca.com/blog/first-steps-webassembly-rust)
