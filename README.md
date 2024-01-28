@@ -280,7 +280,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
 - [Modfy - Wasm Video Transcoder](https://modfy.video/)
-- [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/jaomag/boytacean)
+- [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy)
+- [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/joamag/boytacean)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
@@ -328,6 +329,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Everywhere](https://byrnemluke.com/posts/webassembly)
 
 ## Video
+- [The Complete WebAssembly Course - From Beginner to Advanced! (2024-01)](https://www.youtube.com/watch?v=eYekV2Do0YU)
 - [What is WebAssembly? By Some of its Creators (2019-08)](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
 - [Level up Your Web Apps with WebAssembly (PerfMatters Conference 2019-04)](https://www.youtube.com/watch?v=o-2PLhMVBYU)
 - [Go WebAssembly Tutorial - Building a Calculator (2018-08)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
@@ -379,6 +381,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf)
 - [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
 - [An Empirical Study of Real-World WebAssembly Binaries: Security, Languages, Use Cases](https://dlehmann.eu/publications/WasmBench-www2021.pdf)
+- [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/system/files/atc19-jangda.pdf)
+- [Provably-Safe Multilingual Software Sandboxing using WebAssembly](https://www.usenix.org/system/files/sec22-bosamiya.pdf)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
