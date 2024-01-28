@@ -14,6 +14,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Projects](#projects)
   - [AI](#ai)
   - [Web frameworks-libraries](#web-frameworks-libraries)
+  - [Apache Server](#apache-server)
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
   - [webpack](#webpack)
@@ -29,6 +30,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Lua](#lua)
   - [OCAML](#ocaml)
   - [Python](#python)
+  - [Prolog](#prolog)
   - [Rust](#rust)
   - [Forth](#forth)
   - [WASM-like](#wasm-like)
@@ -154,6 +156,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Vecty - Lets you build responsive and dynamic web frontends in Go using WebAssembly](https://vecty.io)
 - [Zwitterion - A web dev server that lets you import anything*](https://github.com/lastmjs/zwitterion)
 
+### Apache Server
+- [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
+
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
@@ -234,6 +239,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [python-wasm - WebAssembly CPython for Node.js and the browser built using Zig (no emscripten)](https://python-wasm.cocalc.com/)
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
 
+### Prolog
+- [Ciao Prolog Playground (WASM)](https://ciao-lang.org/playground/)
 
 ### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
