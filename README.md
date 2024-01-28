@@ -281,6 +281,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
 - [Modfy - Wasm Video Transcoder](https://modfy.video/)
 - [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy)
+- [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/joamag/boytacean)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
