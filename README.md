@@ -327,6 +327,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Everywhere](https://byrnemluke.com/posts/webassembly)
 
 ## Video
+- [The Complete WebAssembly Course - From Beginner to Advanced! (2024-01)](https://www.youtube.com/watch?v=eYekV2Do0YU)
 - [What is WebAssembly? By Some of its Creators (2019-08)](https://www.youtube.com/watch?v=fvkIQfRZ-Y0)
 - [Level up Your Web Apps with WebAssembly (PerfMatters Conference 2019-04)](https://www.youtube.com/watch?v=o-2PLhMVBYU)
 - [Go WebAssembly Tutorial - Building a Calculator (2018-08)](https://www.youtube.com/watch?v=4kBvvk2Bzis)
