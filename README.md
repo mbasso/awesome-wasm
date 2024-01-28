@@ -12,6 +12,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Compilers](#compilers)
 - [Non-Web Embeddings](#non-web-embeddings)
 - [Projects](#projects)
+  - [AI](#ai)
   - [Web frameworks-libraries](#web-frameworks-libraries)
   - [Data processing](#data-processing)
   - [WebGL](#webgl)
@@ -136,6 +137,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 
 ## Projects
+
+### AI
+- [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
 
 ### Web frameworks-libraries
 - [asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME](https://github.com/lume/asdom)
