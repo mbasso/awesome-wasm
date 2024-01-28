@@ -195,6 +195,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 - [gtree - Web app that converts from Markdown to tree using WebAssembly](https://ddddddo.github.io/gtree/)
+- [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 
 ## Languages
 
