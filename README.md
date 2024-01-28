@@ -133,6 +133,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Manticore - Symbolic execution engine with support for WebAssembly](https://github.com/trailofbits/manticore)
 - [WAVM - WebAssembly virtual machine, designed for use in non-web applications](https://github.com/WAVM/WAVM)
 - [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
+- [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism)
 
 
 ## Projects
