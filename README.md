@@ -30,6 +30,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Lua](#lua)
   - [OCAML](#ocaml)
   - [Python](#python)
+  - [Prolog](#prolog)
   - [Rust](#rust)
   - [Forth](#forth)
   - [WASM-like](#wasm-like)
@@ -238,6 +239,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [python-wasm - WebAssembly CPython for Node.js and the browser built using Zig (no emscripten)](https://python-wasm.cocalc.com/)
 - [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) (using [PPCI](http://ppci.readthedocs.io))
 
+### Prolog
+- [Ciao Prolog Playground (WASM)](https://ciao-lang.org/playground/)
 
 ### Rust
 - [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
