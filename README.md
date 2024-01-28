@@ -199,6 +199,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [gtree - Web app that converts from Markdown to tree using WebAssembly](https://ddddddo.github.io/gtree/)
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 - [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
+- [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
 
 ## Languages
 
