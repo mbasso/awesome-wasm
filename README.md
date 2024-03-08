@@ -185,6 +185,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly/Linux/macOS, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno)
 - [Ooui.Wasm - A Xamarin.Forms backend for WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/praeclarum/Ooui)
 
+### Cloud Computing
+- [tau - Easily build Serverless WebAssembly Cloud Computing Platforms](https://github.com/taubyte/tau)
+
 ### Others
 - [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init)
 - [wasm - Python WebAssembly decoder & disassembler library](https://github.com/athre0z/wasm)
