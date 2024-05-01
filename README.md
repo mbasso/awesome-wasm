@@ -210,6 +210,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
+- [uxn.wasm - WebAssembly implementation of the Uxn personal computing virtual machine](https://github.com/remko/uxn.wasm)
 
 ### Forth
 - [WAForth - Bootstrapping Dynamic Forth Interpreter/Compiler for & in WebAssembly](https://github.com/remko/waforth)
