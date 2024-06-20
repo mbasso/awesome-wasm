@@ -252,6 +252,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [awesome-rust](https://github.com/rust-unofficial/awesome-rust) (*has scattered references to targeting WASM*)
 - [Ruffle - Adobe Flash Player emulator written in the Rust](https://github.com/ruffle-rs/ruffle)
 
+### Wa (凹语言)
+- [Wa/凹语言(仓库)](https://github.com/wa-lang/wa) - Wa Language for WASM, design for WebAssembly.
+- [Wa/凹语言(English)](https://wa-lang.github.io/) - Wa Language homepage (english).
+- [Wa/凹语言(简体中文)](https://wa-lang.org/) - Wa Language homepage (chinese).
+- [A NES emulator written in Wa](https://github.com/wa-lang/nes)
+- [A WebGPU Demo written in Wa](https://github.com/wa-lang/webgpu)
+
 ### WASM-like
 - [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah)
 - [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt)
