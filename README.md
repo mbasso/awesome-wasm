@@ -63,7 +63,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Online Playground
 - [WebAssembly Explorer](https://mbebenita.github.io/WasmExplorer/)
-- [WasmFiddle](https://wasmfiddle.com/)
 - [Assembleash - WebAssembly and Typescript-like languages playground](https://github.com/MaxGraey/Assembleash)
 - [Wat2Wasm](https://cdn.rawgit.com/WebAssembly/wabt/fb986fbd/demo/wat2wasm/)
 - [Wasm2Wat](https://cdn.rawgit.com/WebAssembly/wabt/fb986fbd/demo/wasm2wat/)
