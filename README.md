@@ -71,7 +71,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
 - [Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly](https://wasmbyexample.dev/)
 - [Introduction to WebAssembly Text (2021)](https://awesome.red-badger.com/chriswhealy/introduction-to-web-assembly-text)
-- [Hands-On Webassembly: Try the Basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics) 
+- [Hands-On Webassembly: Try the Basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 - [Using WebAssembly modules in C# (2020)](https://platform.uno/blog/using-webassembly-modules-in-c/)
 - [First steps with WebAssembly in Rust (2020)](https://aralroca.com/blog/first-steps-webassembly-rust)
 - [WebAssembly threads in Firefox (2020)](https://cggallant.blogspot.com/2020/07/webassembly-threads-in-firefox.html)
@@ -136,7 +136,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WAVM - WebAssembly virtual machine, designed for use in non-web applications](https://github.com/WAVM/WAVM)
 - [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
 - [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism)
-
+- [Owi](https://github.com/OCamlPro/owi): a Wasm interpreter written in OCaml
 
 ## Projects
 
@@ -234,6 +234,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### OCAML
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wasicaml - Translate OCaml Bytecode to WASM](https://github.com/remixlabs/wasicaml/)
+- [Wasocaml](https://github.com/OCamlPro/wasocaml): an OCaml to WasmGC compiler
 
 ### Python
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
@@ -271,6 +272,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Kits
 - [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
 - [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
+- [Owi]: a WebAssembly toolkit and cross-language bug-finder
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
@@ -400,6 +402,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/system/files/atc19-jangda.pdf)
 - [Provably-Safe Multilingual Software Sandboxing using WebAssembly](https://www.usenix.org/system/files/sec22-bosamiya.pdf)
 - [Wasabi: A Framework for Dynamically Analyzing WebAssembly](https://software-lab.org/publications/asplos2019_Wasabi.pdf)
+- [Wasocaml: compiling OCaml to Webassembly](https://inria.hal.science/hal-04311345)
+- [Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly](https://hal.science/hal-04627413)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
