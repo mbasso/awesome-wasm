@@ -136,7 +136,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WAVM - WebAssembly virtual machine, designed for use in non-web applications](https://github.com/WAVM/WAVM)
 - [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
 - [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism)
-- [Owi](https://github.com/OCamlPro/owi): a Wasm interpreter written in OCaml
+- [Owi - a Wasm interpreter written in OCaml](https://github.com/OCamlPro/owi)
 
 ## Projects
 
@@ -234,7 +234,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### OCAML
 - [ocamlrun-wasm - OCaml Bytecode Interpreter in WASM](https://github.com/sebmarkbage/ocamlrun-wasm)
 - [wasicaml - Translate OCaml Bytecode to WASM](https://github.com/remixlabs/wasicaml/)
-- [Wasocaml](https://github.com/OCamlPro/wasocaml): an OCaml to WasmGC compiler
+- [Wasocaml - OCaml to WasmGC compiler](https://github.com/OCamlPro/wasocaml)
 
 ### Python
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
@@ -272,7 +272,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Kits
 - [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
 - [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
-- [Owi]: a WebAssembly toolkit and cross-language bug-finder
+- [Owi - A WebAssembly toolkit and cross-language bug-finder](https://github.com/OCamlPro/owi)
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
