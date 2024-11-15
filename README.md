@@ -1,6 +1,6 @@
 # Awesome Wasm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Collection of awesome things regarding WebAssembly (wasm) ecosystem.
+Collection of awesome things regarding the WebAssembly (wasm) ecosystem.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
