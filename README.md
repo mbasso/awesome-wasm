@@ -309,6 +309,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [A Real-World WebAssembly Benchmark by PSPDFKit](https://pspdfkit.com/blog/2018/a-real-world-webassembly-benchmark/)
 - [Wasm vs. PNaCl Performance Benchmark by PDFTron](https://www.pdftron.com/blog/wasm/wasm-vs-pnacl/)
 - [JavaScript vs WebAssembly running in Browser/Nodejs](https://originjs.org/WASM-benchmark/)
+- [Native Implementation vs Wasm for Go, Python and Rust Benchmark](https://karnwong.me/posts/2024/12/native-implementation-vs-wasm-for-go-python-and-rust-benchmark/)
 
 ## Job Boards
 - [WebAssembly Jobs](https://webassemblyjobs.com)
