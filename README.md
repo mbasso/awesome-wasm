@@ -268,6 +268,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [vscode wast - WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
 - [Atom language-wast](https://atom.io/packages/language-wast)
 - [vscode-wasm - WebAssembly toolkit for vscode](https://marketplace.visualstudio.com/items?itemName=dtsvet.vscode-wasm)
+- [wasm-language-tools - Language server and other tools for WebAssembly](https://github.com/g-plane/wasm-language-tools)
 
 ### Kits
 - [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
