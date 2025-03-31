@@ -344,7 +344,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly: a binary format for the web (2015)](http://2ality.com/2015/06/web-assembly.html)
 - [Compiling to WebAssembly: It's Happening! (2015)](https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/)
 - [The Future of Programming: WebAssembly & Life After JavaScript (2015)](https://www.sitepoint.com/future-programming-webassembly-life-after-javascript/)
-- [WebAssembly Everywhere](https://byrnemluke.com/posts/webassembly)
 
 ## Video
 - [The Complete WebAssembly Course - From Beginner to Advanced! (2024-01)](https://www.youtube.com/watch?v=eYekV2Do0YU)
