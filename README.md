@@ -207,6 +207,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Languages
 
+### C/C++
+- [WebNoise - Minimal C++ WebAssembly app rendering procedural 3D noise](https://github.com/BirdUp9000/webnoise)
+
 ### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
 
