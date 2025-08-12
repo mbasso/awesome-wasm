@@ -404,6 +404,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Wasabi: A Framework for Dynamically Analyzing WebAssembly](https://software-lab.org/publications/asplos2019_Wasabi.pdf)
 - [Wasocaml: compiling OCaml to Webassembly](https://inria.hal.science/hal-04311345)
 - [Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly](https://hal.science/hal-04627413)
+- [WebAssembly and Security: a review](https://www.sciencedirect.com/science/article/abs/pii/S157401372500005X)
 
 ## Demos
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
