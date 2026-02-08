@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [Kreuzberg - Document intelligence library compiled to WebAssembly via wasm-bindgen, extracts text, tables, and metadata from 62+ formats in the browser, Node.js, Deno, and Cloudflare Workers](https://github.com/kreuzberg-dev/kreuzberg)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
