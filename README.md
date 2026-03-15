@@ -161,6 +161,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
+### Cryptography
+- [UltrafastSecp256k1 - High-performance secp256k1 engine with WebAssembly support, plus CPU, CUDA, OpenCL, embedded, and stable C ABI targets.](https://github.com/shrec/UltrafastSecp256k1)
+
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
 - [glas - Web**GL** in WebAssembly with **A**ssembly**S**cript, by LUME](https://github.com/lume/glas)
