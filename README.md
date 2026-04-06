@@ -4,6 +4,7 @@ Collection of awesome things regarding the WebAssembly (wasm) ecosystem.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for WebAssembly development workflow orchestration, automated code review, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [General Resources](#general-resources)
