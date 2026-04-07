@@ -137,6 +137,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
 - [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism)
 - [Owi - a Wasm interpreter written in OCaml](https://github.com/OCamlPro/owi)
+- [AkiraOS - High-performance WebAssembly OS for embedded systems, combining Zephyr RTOS with WAMR for sandboxed app execution on resource-constrained devices](https://github.com/ArturR0k3r/AkiraOS)
 
 ## Projects
 
