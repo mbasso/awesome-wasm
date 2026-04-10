@@ -263,6 +263,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Tools
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=mbasso_awesome-wasm) - Follow developers on GitHub and get a feed of what they star and build.
 ### Editor
 - [vim-wasm - WebAssembly filetype support for Vim](https://github.com/rhysd/vim-wasm)
 - [vscode wast - WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
