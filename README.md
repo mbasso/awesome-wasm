@@ -141,6 +141,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Projects
 
 ### AI
+- [SammaPix - Browser-based image toolkit using WebAssembly for AI background removal (RMBG-1.4 via HuggingFace Transformers), with 27 tools running client-side](https://www.sammapix.com)
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
 
 ### Apache Server
