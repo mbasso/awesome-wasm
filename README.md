@@ -89,9 +89,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [How to get a performance boost using WebAssembly (2017)](https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665)
 - [Getting Started With WebAssembly in Node.js (2017)](http://thecodebarbarian.com/getting-started-with-webassembly-in-node.js.html)
 - [Build Your First Thing With WebAssembly (2016)](http://cultureofdevelopment.com/blog/build-your-first-thing-with-web-assembly/)
-- [WebAssembly — The missing tutorial (2016)](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
+- [WebAssemblyâââThe missing tutorial (2016)](https://medium.com/@MadsSejersen/webassembly-the-missing-tutorial-95f8580b08ba)
 - [Webassembly initial steps tutorial (2016)](https://tutorials.technology/tutorials/11-webassembly-initial-steps-tutorial.html)
-- [WebAssemblyMan – man page for WebAssembly.](https://www.webassemblyman.com)
+- [WebAssemblyMan â man page for WebAssembly.](https://www.webassemblyman.com)
 
 ## Compilers
 - [Emscripten - LLVM-based project that compiles C and C++](http://kripken.github.io/emscripten-site/)
@@ -196,9 +196,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
-- [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
-- [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
-- [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
+- [wasm-pdf â Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
+- [go-web-app â Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
+- [gotemplate.io â Quicky test and visualize your Go templates live](https://gotemplate.io/)
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 - [gtree - Web app that converts from Markdown to tree using WebAssembly](https://ddddddo.github.io/gtree/)
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
@@ -297,6 +297,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
 - [Modfy - Wasm Video Transcoder](https://modfy.video/)
+- [Remove Audio](https://remove-audio.com) — Free browser-based tool to strip audio from video files. Local processing via WebAssembly + FFmpeg.wasm. No uploads, no signup. Batch up to 20 clips.
 - [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy)
 - [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/joamag/boytacean)
 
@@ -327,7 +328,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly: A New Hope (2017)](https://pspdfkit.com/blog/2017/webassembly-a-new-hope/)
 - [Creating a WebAssembly module instance with JavaScript (2017)](https://hacks.mozilla.org/2017/07/creating-a-webassembly-module-instance-with-javascript/)
 - [Memory in WebAssembly (and why it's safer than you think) (2017)](https://hacks.mozilla.org/2017/07/memory-in-webassembly-and-why-its-safer-than-you-think/)
-- [WebAssembly table imports… what are they? (2017)](https://hacks.mozilla.org/2017/07/webassembly-table-imports-what-are-they/)
+- [WebAssembly table importsâ¦ what are they? (2017)](https://hacks.mozilla.org/2017/07/webassembly-table-imports-what-are-they/)
 - [WebAssembly Demystified (2017)](http://floooh.github.io/2017/06/09/webassembly-demystified.html)
 - [A cartoon intro to WebAssembly (2017)](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly/)
 - [Creating and working with WebAssembly modules (2017)](https://hacks.mozilla.org/2017/02/creating-and-working-with-webassembly-modules/)
@@ -337,7 +338,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Why WebAssembly is Faster Than asm.js (2017)](https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/)
 - [Firefox 52: Introducing Web Assembly, CSS Grid and the Grid Inspector (2017)](https://hacks.mozilla.org/2017/03/firefox-52-introducing-web-assembly-css-grid-and-the-grid-inspector/)
 - [Previewing the WebAssembly Explorer (2017)](https://hacks.mozilla.org/2017/03/previewing-the-webassembly-explorer/)
-- [Why WebAssembly is a game changer for the web — and a source of pride for Mozilla and Firefox (2017)](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
+- [Why WebAssembly is a game changer for the webâââand a source of pride for Mozilla and Firefox (2017)](https://medium.com/mozilla-tech/why-webassembly-is-a-game-changer-for-the-web-and-a-source-of-pride-for-mozilla-and-firefox-dda80e4c43cb)
 - [Introduction to WebAssembly (2017)](https://rsms.me/wasm-intro)
 - [What is WebAssembly? (2015)](https://medium.com/javascript-scene/what-is-webassembly-the-dawn-of-a-new-era-61256ec5a8f6)
 - [7 Things You Should Know About WebAssembly (2015)](https://auth0.com/blog/7-things-you-should-know-about-web-assembly/)
@@ -406,7 +407,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly](https://hal.science/hal-04627413)
 
 ## Demos
-- [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
+- [AphrÃ³s - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
@@ -425,16 +426,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Russian
 - [KharkivJS #5: Serious JS (Kharkiv, Ukraine, November 7, 2015) - WebAssembly: new era of Web (video)](https://www.youtube.com/watch?v=eWF_1nMM5Yo)
 - [OdessaJS 2017 - Real world WebAssembly (video)](https://www.youtube.com/watch?v=kS29TT4wk44)
-- [Урок-введение по WebAssembly на примере игры "Жизнь" (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
+- [Ð£ÑÐ¾Ðº-Ð²Ð²ÐµÐ´ÐµÐ½Ð¸Ðµ Ð¿Ð¾ WebAssembly Ð½Ð° Ð¿ÑÐ¸Ð¼ÐµÑÐµ Ð¸Ð³ÑÑ "ÐÐ¸Ð·Ð½Ñ" (article)](https://tproger.ru/translations/webassembly-tutorial-first-steps/)
 
 ### Simplified Chinese
-- [WebAssembly 中文网](http://webassembly.org.cn/)
-- [WebAssembly 中文社区](https://www.w3ctech.com/category/18)
+- [WebAssembly ä¸­æç½](http://webassembly.org.cn/)
+- [WebAssembly ä¸­æç¤¾åº](https://www.w3ctech.com/category/18)
 - [WebAssembly-cn Orgnization](https://github.com/WebAssembly-cn)
-- [WebAssembly资料精选 - 中文版](https://github.com/chai2010/awesome-wasm-zh)
-- [WebAssembly标准入门 - 第一本中文图书](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)
-- [C/C++面向wasm编程 - 第一本中文开源图书](https://github.com/3dgen/cppwasm-book)
-- [《深入浅出 WebAssembly》](https://zhuanlan.zhihu.com/p/47577104)
+- [WebAssemblyèµæç²¾é - ä¸­æç](https://github.com/chai2010/awesome-wasm-zh)
+- [WebAssemblyæ åå¥é¨ - ç¬¬ä¸æ¬ä¸­æå¾ä¹¦](https://github.com/chai2010/awesome-wasm-zh/blob/master/webassembly-primer.md)
+- [C/C++é¢åwasmç¼ç¨ - ç¬¬ä¸æ¬ä¸­æå¼æºå¾ä¹¦](https://github.com/3dgen/cppwasm-book)
+- [ãæ·±å¥æµåº WebAssemblyã](https://zhuanlan.zhihu.com/p/47577104)
 
 ### Spanish
 - [Compilando para el navegador con WebAssembly (article)](https://juancrg90.me/essays/compilando-para-el-navegador-con-webassembly)
