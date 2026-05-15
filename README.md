@@ -221,6 +221,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### JavaScript-family
 - [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/AssemblyScript/assemblyscript)
 - [Getting Started with AssemblyScript](https://www.sitepen.com/blog/getting-started-with-assemblyscript/)
+- [jz - A minimal, fast AOT compiler for a functional JavaScript subset to WebAssembly](https://github.com/dy/jz)
 - [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)](https://github.com/01alchemist/TurboScript)
 - [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js)
 
@@ -273,6 +274,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
 - [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
 - [Owi - A WebAssembly toolkit and cross-language bug-finder](https://github.com/OCamlPro/owi)
+- [watr - A light and fast WebAssembly text (WAT) compiler and optimizer](https://github.com/dy/watr)
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
