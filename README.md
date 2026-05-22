@@ -141,6 +141,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ## Projects
 
 ### AI
+- [ONNX2Anything - Convert ONNX models to NCNN/MNN/TNN/Tengine/PaddleLite in the browser using WebAssembly + Pyodide](https://github.com/UnstoppableCurry/onnx2anything)
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
 
 ### Apache Server
