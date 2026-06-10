@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [Wickra - streaming-first technical-analysis library with 514 O(1)-per-tick indicators, Rust core compiled to WebAssembly (npm: wickra-wasm)](https://github.com/wickra-lib/wickra)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
