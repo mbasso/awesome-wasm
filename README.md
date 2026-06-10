@@ -263,6 +263,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Tools
 
+- [Cross-Origin Isolation Checker - check whether a site is cross-origin isolated (COOP/COEP), required for SharedArrayBuffer and multithreaded WebAssembly](https://app.cinevva.com/tools/cross-origin-isolation-checker)
+
 ### Editor
 - [vim-wasm - WebAssembly filetype support for Vim](https://github.com/rhysd/vim-wasm)
 - [vscode wast - WebAssembly(S-expression) support](https://marketplace.visualstudio.com/items?itemName=ukyo.wast)
