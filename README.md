@@ -5,7 +5,7 @@ Collection of awesome things regarding the WebAssembly (wasm) ecosystem.
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
 ## Contents
-h
+
 - [General Resources](#general-resources)
 - [Online Playground](#online-playground)
 - [Tutorials](#tutorials)
