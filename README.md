@@ -162,7 +162,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
 ### WebGL / WebGPU
-- [Darkly.art](https://github.com/darkly-art/darkly) - A GPU-powered photo editor and paint program for digital artists
+- [Darkly.art - A GPU-powered photo editor and paint program for digital artists](https://github.com/darkly-art/darkly)
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
 - [glas - Web**GL** in WebAssembly with **A**ssembly**S**cript, by LUME](https://github.com/lume/glas)
 - [Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly](https://github.com/leefsmp/Particle-System)
