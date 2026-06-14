@@ -16,7 +16,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Apache Server](#apache-server)
   - [Web frameworks-libraries](#web-frameworks-libraries)
   - [Data processing](#data-processing)
-  - [WebGL](#webgl)
+  - [WebGL / WebGPU](#webgl-webgpu)
   - [webpack](#webpack)
   - [Browserify](#browserify)
   - [Node.js](#nodejs)
@@ -161,7 +161,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
-### WebGL
+### WebGL / WebGPU
+- [Darkly.art](https://github.com/darkly-art/darkly) - A GPU-powered photo editor and paint program for digital artists
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
 - [glas - Web**GL** in WebAssembly with **A**ssembly**S**cript, by LUME](https://github.com/lume/glas)
 - [Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly](https://github.com/leefsmp/Particle-System)
