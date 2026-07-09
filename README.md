@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### AI
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [ternlight - A ternary (1.58-bit) sentence-embedding model that runs on-device in WASM](https://github.com/soycaporal/ternlight)
 
 ### Apache Server
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
@@ -419,6 +420,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Squoosh.app - Compress and compare images with different codecs, right in your browser](https://squoosh.app)
 - [SketchUp - 3D modeling software](https://app.sketchup.com/app)
 - [WebViewer - a CAD, MS Office, and PDF SDK](https://www.pdftron.com/webviewer/demo/)
+- [ternlight - Semantic search over 2k docs, running entirely in your browser](https://ternlight-demo.vercel.app)
 
 ## Resources in other languages
 
