@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### AI
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [LocalMode - Local-first AI toolkit that runs LLMs, embeddings, and RAG entirely in the browser via WebAssembly (llama.cpp/wllama) and WebGPU, with no servers or API keys](https://github.com/LocalMode-AI/LocalMode)
 
 ### Apache Server
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
