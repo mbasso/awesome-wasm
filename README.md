@@ -147,6 +147,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
 
 ### Web frameworks-libraries
+- [Anycode - Web-based IDE with custom fast virtual-rendering code editor using Tree-Sitter WASM, Rust backend, and AI agent support](https://github.com/anycode-ade/anycode)
 - [asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME](https://github.com/lume/asdom)
 - [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
 - [Blazor - Microsoft's web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
