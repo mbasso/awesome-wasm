@@ -419,6 +419,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Squoosh.app - Compress and compare images with different codecs, right in your browser](https://squoosh.app)
 - [SketchUp - 3D modeling software](https://app.sketchup.com/app)
 - [WebViewer - a CAD, MS Office, and PDF SDK](https://www.pdftron.com/webviewer/demo/)
+- [HEIC to JPG - Convert iPhone HEIC and HEIF photos in the browser, with libheif compiled to WebAssembly](https://abox.tools/heic-to-jpg/)
 
 ## Resources in other languages
 
