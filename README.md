@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [I Have A Tool For That - client-side PDF processing, OCR, and image conversion suite powered by WebAssembly (Tesseract.js, pdfjs-dist, pdf-lib) — no file uploads](https://ihaveatoolforthat.com/privacy-guarantee)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
@@ -406,6 +407,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Owi: Performant Parallel Symbolic Execution Made Easy, an Application to WebAssembly](https://hal.science/hal-04627413)
 
 ## Demos
+- [I Have A Tool For That - 90+ browser tools (PDF merge/split/compress, OCR, image conversion) running entirely via WebAssembly with no server processing](https://ihaveatoolforthat.com)
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
