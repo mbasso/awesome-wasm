@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### AI
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [InstaScript - A browser-based Instagram Reel and video transcript tool that runs Whisper AI via WebAssembly](https://github.com/nickwebt800/instascript)
 
 ### Apache Server
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
