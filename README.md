@@ -273,6 +273,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
 - [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
 - [Owi - A WebAssembly toolkit and cross-language bug-finder](https://github.com/OCamlPro/owi)
+- [ephemora-cell - Capability-based WASI sandbox for untrusted AI code](https://github.com/MichaelS1011/ephemora-cell) — Fuel/memory/time/I/O limits, 0.5ms warm, 8/8 Docker vectors blocked (wasmtime, MCP server). `Python` `WASI` `MCP`
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
