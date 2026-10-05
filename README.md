@@ -160,6 +160,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [FileZenith](https://www.filezenith.com) - In-browser, client-side PDF manipulation and document compression suite powered by WebAssembly with zero server storage. [GitHub](https://github.com/AaradhyaproK/pdf)
+
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
