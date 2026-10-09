@@ -160,6 +160,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [PDFBlack](https://pdf-black.com) - Complete privacy-first, client-side PDF tool suite powered by Web Workers and WebAssembly. ([Source](https://github.com/nereoab/pdf-local-app))
+
+
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
