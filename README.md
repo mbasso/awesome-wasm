@@ -204,6 +204,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 - [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
 - [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
+- [pdfanonym - Privacy-first PDF tools (redaction, anonymization, metadata removal) running in the browser with MuPDF compiled to WebAssembly](https://github.com/Julien361/pdfanonym)
 
 ## Languages
 
