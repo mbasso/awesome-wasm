@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [ConvertSheet - In-browser zero-upload data converter and spreadsheet suite powered by WebAssembly](https://www.convertsheet.com) ([Source](https://github.com/priyanshu-code/convertsheet))
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
