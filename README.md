@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### AI
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [Leviate - Moves 3D models and the mouse with hand gestures, with MediaPipe hand tracking running as WebAssembly on the device](https://github.com/vladpereverzyev/leviate)
 
 ### Apache Server
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
