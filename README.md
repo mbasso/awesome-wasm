@@ -196,6 +196,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
+- [hevc.js - HEVC/H.265 decoder in WebAssembly with client-side HEVC to H.264 transcoding for browsers](https://github.com/privaloops/hevc.js)
 - [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
