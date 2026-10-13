@@ -38,6 +38,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Tools](#tools)
   - [Editor](#editor)
   - [Kits](#kits)
+  - [Analysis / Debugging](#analisys--debugging)
 - [Gists](#gists)
 - [Examples](#examples)
 - [Benchmarks](#benchmarks)
@@ -261,7 +262,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Lys - a functional language that compiles to WebAssembly](https://github.com/lys-lang/lys)
 - [Never - statically typed, embeddable functional programming language](https://github.com/never-lang/never)
 
-## Tools
+## 
 
 ### Editor
 - [vim-wasm - WebAssembly filetype support for Vim](https://github.com/rhysd/vim-wasm)
@@ -270,9 +271,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [vscode-wasm - WebAssembly toolkit for vscode](https://marketplace.visualstudio.com/items?itemName=dtsvet.vscode-wasm)
 
 ### Kits
-- [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt)
-- [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
+- [WABT - A suite of  that help working with WASM binary files](https://github.com/WebAssembly/wabt)
+- [webassembly-binary-toolkit - The WABT  installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit)
 - [Owi - A WebAssembly toolkit and cross-language bug-finder](https://github.com/OCamlPro/owi)
+
+### Analysis / Debugging
+- [Hexana](https://hexana.lovable.app/?utm_source=awesome_wasm&utm_medium=referral&utm_campaign=landing_spread_q3) - IntelliJ and VS Code plugin for WebAssembly analysis: WAT/WIT structured views, module diff, size and dominator analysis, DWARF debug-info navigation, per-function disassembly.
 
 ## Gists
 - [Standalone WebAssembly Example](https://gist.github.com/kripken/59c67556dc03bb6d57052fedef1e61ab)
@@ -294,7 +298,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [HackerNews PWA with wasm-bindgen](https://github.com/ragingwind/wasm-hnpwa)
 - [TiDB playground - writing SQL in an in-browser golang database in WebAssembly](https://tour.tidb.io/)
 - [Made With Webassembly - Showcase of Awesome Production Applications, Side Projects, and Use Cases Made With Webassembly](https://madewithwebassembly.com/)
-- [HandyTools - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handytools-go-webassembly)
+- [Handy - A tool providing features like base64 encoding/decoding, Unix time conversion, etc. Written in Go + WebAssembly](https://github.com/XD-DENG/handy-go-webassembly)
 - [WAsm Heatmap - Creates a heatmap layer for Leaflet.js with Go+WebAssembly+WebWorkers](https://aurium.gitlab.io/wasm-heatmap/)
 - [Modfy - Wasm Video Transcoder](https://modfy.video/)
 - [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy)
