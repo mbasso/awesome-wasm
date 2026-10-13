@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [Garu - browser-native Korean morphological analyzer / POS tagger, compiled from Rust (1MB model + 337KB WASM, runs fully client-side, offline)](https://github.com/ongjin/garu)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
