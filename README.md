@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- - [TryDocsy](https://trydocsy.com) - WebAssembly-powered browser app for offline PDF editing, OCR, and image processing.
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
