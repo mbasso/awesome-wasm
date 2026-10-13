@@ -159,6 +159,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Zwitterion - A web dev server that lets you import anything*](https://github.com/lastmjs/zwitterion)
 
 ### Data processing
+- [browser-image-tools - client-side PNG/JPEG/WebP/AVIF/GIF/ICO convert & compress using Canvas + WASM (jSquash), files never leave the device](https://github.com/cleanor-app/browser-image-tools)
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
 ### WebGL
