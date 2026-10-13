@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [datalogic-wasm - a JSONLogic rules engine compiled to WebAssembly, for evaluating user-supplied rules in browsers and edge runtimes](https://github.com/GoPlasmatic/datalogic-rs/tree/main/bindings/wasm)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
