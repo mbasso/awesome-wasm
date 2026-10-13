@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### AI
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [sqlite-sparse - SQLite extension for semantic search with learned sparse retrieval that also runs in the browser via WebAssembly](https://github.com/arbazsiddiqui/sqlite-sparse)
 
 ### Apache Server
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
