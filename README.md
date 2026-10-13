@@ -196,6 +196,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bindgen - Interoperating JS and Rust code](https://github.com/alexcrichton/wasm-bindgen)
 - [ewasm - Ethereum flavored WebAssembly](https://github.com/ewasm)
 - [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm)
+- [omni-compress - Universal image, audio & video compression for browser + Node.js using FFmpeg Wasm, @jsquash/avif, and OffscreenCanvas. Web Workers, AVIF, WebP, Opus, H.264.](https://github.com/dharanish-v/omni-compress)
 - [wasm-pdf – Generate PDF files with JavaScript/WASM](https://github.com/jussiniinikoski/wasm-pdf)
 - [go-web-app – Quickly setup Go + WebAssembly frontend apps](https://github.com/talentlessguy/go-web-app)
 - [gotemplate.io – Quicky test and visualize your Go templates live](https://gotemplate.io/)
