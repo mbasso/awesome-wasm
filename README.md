@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [twineconvert - 192 file converters running entirely client-side via WebAssembly (FFmpeg.wasm, libheif, jspdf, web-ifc, jsquash, gifenc, pdf.js). No upload, no server, files never leave the browser.](https://twineconvert.com)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
