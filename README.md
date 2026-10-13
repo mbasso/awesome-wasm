@@ -204,6 +204,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 - [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
 - [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
+- [RetouchPi - A browser raster and photo editor whose pixel kernels are Rust compiled to WebAssembly](https://retouchpi.com/)
 
 ## Languages
 
