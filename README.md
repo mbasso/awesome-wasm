@@ -260,6 +260,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Other
 - [Lys - a functional language that compiles to WebAssembly](https://github.com/lys-lang/lys)
 - [Never - statically typed, embeddable functional programming language](https://github.com/never-lang/never)
+- [Faber - Experimental type-first language designed to be written by language models; one of its compiler targets emits WebAssembly text](https://faberlang.dev)
 
 ## Tools
 
