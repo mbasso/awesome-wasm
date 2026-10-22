@@ -315,6 +315,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WebAssembly Jobs](https://webassemblyjobs.com)
 
 ## Articles
+- [Running OxiPNG, SVGO, rembg and FFmpeg in a Browser Tab: What Actually Worked (2026)](https://onemilliontools.hashnode.dev/running-oxipng-svgo-rembg-and-ffmpeg-in-a-browser-tab-what-actually-worked)
 - [WebAssembly Fixed-Width SIMD from C# (2023)](https://platform.uno/blog/safari-16-4-support-for-webassembly-fixed-width-simd-how-to-use-it-with-c/)
 - [WebAssembly and SIMD: A Match Made in the Browser (2020)](https://medium.com/@robaboukhalil/webassembly-and-simd-7a7daa4f2ecd)
 - [WebAssembly at eBay: A Real-World Use Case (2019)](https://medium.com/ebaytech/webassembly-at-ebay-a-real-world-use-case-ef888f38b537)
