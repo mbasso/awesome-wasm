@@ -209,6 +209,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Esoteric
 - [funge.js - A Befunge JIT](https://github.com/serprex/befunge)
+- [brnfck.chat - LLMs Written as Single Brainfuck Programs, Compiled to Wasm in the Browser](https://brnfck.chat)
 
 ### Forth
 - [WAForth - Bootstrapping Dynamic Forth Interpreter/Compiler for & in WebAssembly](https://github.com/remko/waforth)
