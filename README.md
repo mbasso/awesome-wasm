@@ -410,6 +410,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Aphrós - finite volume solver for incompressible multiphase flows](https://cselab.github.io/aphros/wasm/hydro.html)
 - [Cubes - direct port of the Bullet physics engine](http://kripken.github.io/ammo.js/examples/webgl_demo/ammo.wasm.html)
 - [Basic4GL](http://basic4gl.net/mobile/Development/webasm/basic4gl.html)
+- [ImgFlow - Free in-browser image compressor/converter (HEIC/WebP/AVIF, target-size) via WebAssembly; files never leave your device](https://imgflow.taoliapp.com/en/)
 - [Symatem - an Ontology Engine, Visualizer, and Editor](http://symatem.github.io/)
 - [Funky Karts](https://www.funkykarts.rocks/demo.html)
 - [PSPDFKit for Web - a WebAssembly-based PDF viewer with annotation features](https://web-preview.pspdfkit.com/standalone/6)
