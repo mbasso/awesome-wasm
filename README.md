@@ -1,4 +1,4 @@
-<img width="1836" height="961" alt="image" src="https://github.com/user-attachments/assets/822ad08e-e7d7-4ec1-8afe-0be4c1f3f6c2" /># Awesome Wasm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Wasm [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Collection of awesome things regarding the WebAssembly (wasm) ecosystem.
 
