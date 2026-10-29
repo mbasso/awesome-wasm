@@ -420,6 +420,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Squoosh.app - Compress and compare images with different codecs, right in your browser](https://squoosh.app)
 - [SketchUp - 3D modeling software](https://app.sketchup.com/app)
 - [WebViewer - a CAD, MS Office, and PDF SDK](https://www.pdftron.com/webviewer/demo/)
+- [Mu Veyra - MU Online Season 6 in the browser, no download, WebAssembly client](https://muveyra.com/)
 
 ## Resources in other languages
 
