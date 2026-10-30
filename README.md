@@ -69,6 +69,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Tutorials
 - [Developer's Guide](http://webassembly.org/getting-started/developers-guide/)
+- [Learn WebAssembly (2025)](https://learn-wasm.dev/)
 - [Wasmbyexample - Hands-On Introduction Examples and Tutorials for Webassembly](https://wasmbyexample.dev/)
 - [Introduction to WebAssembly Text (2021)](https://awesome.red-badger.com/chriswhealy/introduction-to-web-assembly-text)
 - [Hands-On Webassembly: Try the Basics (2020)](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
