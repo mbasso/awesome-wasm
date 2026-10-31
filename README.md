@@ -300,6 +300,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy)
 - [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/joamag/boytacean)
 - [Pyxel - A Retro Game Engine for Python With a Rust Core, Running in the Browser via WebAssembly](https://github.com/kitao/pyxel)
+- [D2-Web - Diablo II: Lord of Destruction 1.13c Reimplemented in C++20 and 64-bit WebAssembly, Playable in a Browser Tab With Your Own Game Files](https://github.com/Virtastic/d2-web)
 
 ## Benchmarks
 - [WebAssembly Video Editor](https://d2jta7o2zej4pf.cloudfront.net/)
