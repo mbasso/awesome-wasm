@@ -237,6 +237,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Wasocaml - OCaml to WasmGC compiler](https://github.com/OCamlPro/wasocaml)
 
 ### Python
+- [Monty-Go - Pure Go wrapper for Pydantic's Monty Python interpreter compiled to WebAssembly, enabling sandboxed Python execution with sub-millisecond startup](https://github.com/fugue-labs/monty-go)
 - [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide)
 - [PyScript - Run Python Code and the scientific stack in the browser](https://github.com/pyscript/)
 - [python-wasm - WebAssembly CPython for Node.js and the browser built using Zig (no emscripten)](https://python-wasm.cocalc.com/)
