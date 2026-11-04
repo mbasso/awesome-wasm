@@ -137,7 +137,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
 - [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism)
 - [Owi - a Wasm interpreter written in OCaml](https://github.com/OCamlPro/owi)
-- [Submilli - Secure Runtime for Code-Mode Agents: Each Agent-Written Program Gets Its Own WebAssembly Sandbox, With Rules on What It May Call](https://github.com/submilli/submilli-runtime)
+- [Submilli - Secure Runtime for Code-Mode Agents: Each Agent-Written Program Gets Its Own WebAssembly Sandbox in Under 1 ms, With Rules on What It May Call](https://github.com/submilli/submilli-runtime)
 
 ## Projects
 
