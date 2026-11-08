@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [HandleMyFile - Ultra-compact (~463 kB) edge-native PDF to DOCX converter engine in pure Rust WebAssembly](https://github.com/codesbykhairannoor/handlemyfilewasm)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
