@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [Nyxiontech PDF Tools - 25 PDF and image tools with OCR, redaction and background removal, running client-side in the browser via WebAssembly with no backend](https://github.com/jurecki007/nyxiontech-tools)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
