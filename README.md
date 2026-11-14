@@ -163,6 +163,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
+- [Atlyxen Tools](https://tools.atlyxenstudios.com/) - High-performance suite of 100+ client-side WebAssembly and WebGL utilities for in-browser CAD DWG inspection, 3D model viewing, and PDF manipulation with zero server uploads.
 - [glas - Web**GL** in WebAssembly with **A**ssembly**S**cript, by LUME](https://github.com/lume/glas)
 - [Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly](https://github.com/leefsmp/Particle-System)
 - [Oryol - a small, portable 3D coding framework written in C++](https://floooh.github.io/oryol/)
