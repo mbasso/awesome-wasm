@@ -202,8 +202,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench)
 - [gtree - Web app that converts from Markdown to tree using WebAssembly](https://ddddddo.github.io/gtree/)
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
-- [crypto-js-wasm - An alternate tpo crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
-- [ssheasy - An online ssh and sftp client](https://github.com/hullarb/ssheasy)
+- [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
+- [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
 - [Seed Map Viewer - Minecraft seed map and structure finders powered by the cubiomes engine compiled to WebAssembly](https://seedmapviewer.com/)
 
 ## Languages
