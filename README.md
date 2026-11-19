@@ -159,6 +159,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Zwitterion - A web dev server that lets you import anything*](https://github.com/lastmjs/zwitterion)
 
 ### Data processing
+- [PDFCraft](https://github.com/Vishnu-cod/pdf-craft) - 100% client-side PDF utility suite to compress under 100KB, e-sign, and convert documents in-browser with WebAssembly.
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
 
 ### WebGL
