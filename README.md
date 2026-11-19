@@ -142,6 +142,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### AI
 - [Voy - A WASM vector similarity search engine written in Rust](https://github.com/tantaraio/voy)
+- [ferrovec - In-browser HNSW vector store written in Rust and compiled to WebAssembly. Persists to OPFS with a write-ahead log and stays consistent across tabs](https://github.com/singhpratech/ferrovec)
 
 ### Apache Server
 - [mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).](https://github.com/vmware-labs/mod_wasm)
