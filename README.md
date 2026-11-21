@@ -157,6 +157,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Vugu - A modern UI library for Go+WebAssembly](https://www.vugu.org/)
 - [Vecty - Lets you build responsive and dynamic web frontends in Go using WebAssembly](https://vecty.io)
 - [Zwitterion - A web dev server that lets you import anything*](https://github.com/lastmjs/zwitterion)
+- [dataviz - Rust plotting library compiled to WebAssembly: 120+ chart types on a canvas, SVG or PNG, with no JavaScript dependencies](https://github.com/dataviz-rs/dataviz/tree/main/wasm/npm)
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
