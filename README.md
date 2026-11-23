@@ -160,6 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
+- [libdeflate-wasm - libdeflate compiled to WebAssembly: DEFLATE, zlib and gzip up to level 12, byte-identical to native output](https://github.com/Konvetto/libdeflate-wasm)
 
 ### WebGL
 - [ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten](https://github.com/kripken/ammo.js)
