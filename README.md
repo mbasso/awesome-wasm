@@ -204,6 +204,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 - [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
 - [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
+- [PDFGem - Free browser-based PDF tools (merge, split, compress, OCR, sign, convert) powered by WebAssembly. Files never leave the browser](https://pdfgem.io/)
+- [Vizua - Free browser-based image tools (compress, resize, convert to WebP/AVIF, remove background, OCR) powered by WebAssembly. Files never leave the browser](https://vizua.io/)
 
 ## Languages
 
