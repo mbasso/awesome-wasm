@@ -157,6 +157,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Vugu - A modern UI library for Go+WebAssembly](https://www.vugu.org/)
 - [Vecty - Lets you build responsive and dynamic web frontends in Go using WebAssembly](https://vecty.io)
 - [Zwitterion - A web dev server that lets you import anything*](https://github.com/lastmjs/zwitterion)
+- [TI-84 Plus CE Emulator](https://ti84ce.com/) - Full-featured TI-84 Plus CE running entirely in WebAssembly for free, no download required.
 
 ### Data processing
 - [jq-web - the JSON processing tool jq ported to the web with Emscripten](https://github.com/fiatjaf/jq-web)
