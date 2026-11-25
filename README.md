@@ -204,6 +204,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 - [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
 - [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
+- [BoringTools](https://www.boringtoolsai.com/) - 100+ privacy-first browser micro-utilities powered by WebAssembly, featuring LibreOffice WASM for document conversions and FFmpeg WASM for video/audio processing without server uploads.
 
 ## Languages
 
