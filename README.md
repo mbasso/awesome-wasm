@@ -137,6 +137,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [windtrap - A WASM VM written in Elixir](https://github.com/gballet/windtrap)
 - [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism)
 - [Owi - a Wasm interpreter written in OCaml](https://github.com/OCamlPro/owi)
+- [WALI - A Low-Level Linux Virtualization Interface Leveraging Webassembly](https://github.com/arjunr2/WALI)
 
 ## Projects
 
