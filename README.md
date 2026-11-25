@@ -204,6 +204,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf)
 - [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm)
 - [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy)
+- [PII Firewall Edge - Edge-deployed PII detection and redaction API running on Cloudflare Workers WASM runtime](https://rapidapi.com/image-zero-trust-security-labs/api/pii-firewall-edge)
 
 ## Languages
 
