@@ -420,6 +420,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Squoosh.app - Compress and compare images with different codecs, right in your browser](https://squoosh.app)
 - [SketchUp - 3D modeling software](https://app.sketchup.com/app)
 - [WebViewer - a CAD, MS Office, and PDF SDK](https://www.pdftron.com/webviewer/demo/)
+- [Madosuite - 356 free file tools (PDF, Office, images, video, archives) that run in the browser, with QPDF compiled to WebAssembly](https://madosuite.com)
 
 ## Resources in other languages
 
