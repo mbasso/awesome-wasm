@@ -149,6 +149,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Web frameworks-libraries
 - [asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME](https://github.com/lume/asdom)
 - [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom)
+- [AIAC SoundCraft - Zero-upload 120 FPS multitrack browser DAW & ITU-R BS.1770-4 LUFS audio studio compiled from Rust to WebAssembly](https://aiac.app/soundcraft/)
 - [Blazor - Microsoft's web UI framework using C#/Razor and HTML, running client-side via WebAssembly](https://dotnet.microsoft.com/apps/aspnet/web-apps/client)
 - [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew)
 - [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective)
