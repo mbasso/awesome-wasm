@@ -105,6 +105,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo)
 - [Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly](https://github.com/mirkosertic/Bytecoder)
 - [AssemblyScript - Definitely not a TypeScript to WebAssembly compiler](https://github.com/AssemblyScript/assemblyscript)
+- [BuildLang - Deterministic multi-target systems language with native WebAssembly, WGSL, and C backends](https://github.com/HarperZ9/buildlang)
 
 ## Non-Web Embeddings
 
